@@ -1,7 +1,7 @@
 # THE LAKE THAT EXHALED — 60s explainer: Image + Video Prompts (STATE 8–9)
 
-*19 beats, each 2–4 s (total ≈ 62 s). 16:9; reframe to 9:16 for Shorts. Style tag used in every prompt:*
-*STYLE = Earth Uncharted Cinematic style, photorealistic 4K documentary footage, vivid natural colors, atmospheric haze, smooth gimbal-stabilized motion, 24fps, natural motion blur, no cuts, no text, no watermark.*
+*19 beats, each 2–4 s (total ≈ 62 s). 16:9 YouTube widescreen, 1920x1080. Style tag used in every prompt:*
+*STYLE = Earth Uncharted Cinematic style, 16:9 widescreen, photorealistic 4K documentary footage, vivid natural colors, atmospheric haze, smooth gimbal-stabilized motion, 24fps, natural motion blur, no cuts, no text, no watermark.*
 
 ### Beat 01 · 0:00–0:03 · "In 1986, a lake in Cameroon"
 - **Image:** High aerial view of the green volcanic highlands of northwest Cameroon at dusk, a deep blue crater lake (Lake Nyos) cradled among steep grassy hills, mist in the valleys. STYLE.
