@@ -44,6 +44,39 @@ LIGHT = {
     "SN": "bright cold light reflecting off snow and ice",
 }
 
+MOTION = {
+    "AH": "slow steady forward drone glide at high altitude with a gentle descent",
+    "AO": "slow lateral drone track at a 45-degree angle, parallax across the terrain",
+    "TD": "slow overhead rotation with the camera pointing straight down",
+    "OR": "smooth slow orbit around the subject",
+    "PI": "slow steady aerial push-in toward the subject",
+    "LA": "low forward drone skim just above the surface, gaining slight speed",
+    "GW": "gentle slow pan across the scene, stabilized and steady",
+    "LO": "slow upward tilt from ground level revealing height",
+    "EL": "subtle stabilized gimbal drift forward",
+    "LL": "slow telephoto pan with compressed perspective",
+    "CU": "very slow macro slide across the detail",
+    "UW": "slow underwater glide forward with gentle buoyant drift",
+    "SP": "slow orbital drift across Earth's curve",
+}
+AMBIENT = {
+    "GH": "warm sunlight shifting subtly as shadows lengthen",
+    "SB": "faint heat shimmer and crisp shadows holding steady",
+    "BL": "lens flare shimmering softly at the frame edge",
+    "OV": "soft clouds drifting slowly overhead",
+    "FG": "fog and mist drifting slowly through the frame",
+    "NT": "stars twinkling faintly and moonlight rippling",
+    "DU": "the sky slowly darkening toward night",
+    "DW": "low mist lifting gently in the dawn light",
+    "GL": "molten glow flickering and pulsing, sparks and steam rising",
+    "ST": "clouds racing and shafts of light shifting across the land",
+    "UL": "sunbeams shimmering and particles drifting in the water",
+    "DK": "a single headlamp beam sweeping slowly through darkness",
+    "SN": "fine ice crystals and blowing snow drifting through the air",
+}
+VSTYLE = ("Earth Uncharted Cinematic style, photorealistic 4K documentary footage, smooth gimbal-stabilized motion, "
+          "24fps, natural motion blur, no cuts, no text, no watermark")
+
 def load():
     seg_env, rows = {}, []
     cur = None
@@ -69,6 +102,8 @@ def main():
     md = ["# EARTH'S DEADLIEST PLACES — Image Prompts (STATE 8)", "",
           f"*{len(beats)} beats, each max 3–5 seconds of narration. Every prompt is standalone and follows the Earth Uncharted Cinematic Visual Style Profile.*", ""]
     out_rows, cur_seg = [], None
+    vmd = ["# EARTH'S DEADLIEST PLACES — Video Prompts (STATE 9)", "",
+           f"*One video prompt per image prompt ({len(beats)} beats). Each animates the matching image prompt; duration matches the narration beat (3–5 s).*", ""]
     for b in beats:
         r = rows.get(b["id"])
         if not r:
@@ -84,6 +119,7 @@ def main():
         if b["seg"] != cur_seg:
             cur_seg = b["seg"]
             md += [f"## {cur_seg}", ""]
+            vmd += [f"## {cur_seg}", ""]
         md += [f"### Beat {b['id']:04d}",
                f"**[Script Segment Text]** \"{b['text']}\"", "",
                f"**Image Prompt:** {prompt}", "",
@@ -91,11 +127,19 @@ def main():
                f"- **Lighting:** {lig_t}",
                f"- **Mood:** {mood}",
                f"- **Action:** {action}", ""]
-        out_rows.append([b["id"], b["seg"], b["text"], prompt, cam_t, lig_t, mood, action])
+        secs = max(3, min(5, round(b["words"] / 2.3)))
+        video = (f"{secs}-second shot. Scene: {scene}. Camera motion: {MOTION.get(cam, cam_t)}. "
+                 f"Subject motion: {action}. Atmosphere: {AMBIENT.get(lig, lig_t)}. Mood: {mood}. {VSTYLE}.")
+        video = re.sub(r"\.\.", ".", video)
+        vmd += [f"### Beat {b['id']:04d}",
+                f"**[Script Segment Text]** \"{b['text']}\"", "",
+                f"**Video Prompt ({secs}s):** {video}", ""]
+        out_rows.append([b["id"], b["seg"], b["text"], prompt, cam_t, lig_t, mood, action, secs, video])
     open(os.path.join(HERE, "earths-deadliest-places-image-prompts.md"), "w", encoding="utf-8").write("\n".join(md))
+    open(os.path.join(HERE, "earths-deadliest-places-video-prompts.md"), "w", encoding="utf-8").write("\n".join(vmd))
     with open(os.path.join(HERE, "earths-deadliest-places-image-prompts.csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["beat", "segment", "script_text", "image_prompt", "camera_angle", "lighting", "mood", "action"])
+        w.writerow(["beat", "segment", "script_text", "image_prompt", "camera_angle", "lighting", "mood", "action", "duration_s", "video_prompt"])
         w.writerows(out_rows)
     print(f"{len(out_rows)} prompts written; {len(missing)} beats missing" + (f" (first: {missing[:10]})" if missing else ""))
 
