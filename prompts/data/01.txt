@@ -1,0 +1,195 @@
+@ COLD OPEN | Planet Earth seen in a cinematic documentary opening
+1 | !Planet Earth seen from orbit at sunrise, a thin blue atmosphere glowing along the curved horizon, continents and clouds below, black space above | SP | BL | ominous, majestic | the sun slowly crests over Earth's curve
+2 | !A vast hostile volcanic wasteland of black rock and rising sulfur steam stretching to the horizon, no roads, no people, a single tiny figure standing at the edge for scale | AH | ST | foreboding | steam drifts across an empty lava plain
+3 | !A blood-red alkaline soda lake in East Africa with white salt crust and a calcified flamingo standing stiff and stone-like at the shoreline | LO | GH | eerie, unsettling | a frozen bird silhouette stands motionless at the water's edge
+4 | !A small rugged rainforest island rising from the deep blue Atlantic off Brazil, a golden pit viper coiled on a mossy branch in the foreground | LL | SB | tense, threatening | the viper's tongue flicks while waves break on the cliffs behind
+5 | !A steaming river winding through dense Amazon rainforest, thick white vapor rising off turquoise-brown water, jungle canopy pressing in on both banks | AO | DW | mysterious, menacing | clouds of steam lift from the river surface
+6 | !A towering stratovolcano in central Africa with a glowing crater and a river of fast-moving molten lava pouring down its flank | AH | GL | violent, awe-struck | lava surges downhill in a bright orange stream
+7 | !A fluid black-and-orange lava flow racing across a flat road toward a distant city, scorched trees on either side | LA | GL | urgent, dangerous | the lava front advances quickly across the asphalt
+8 | !Split-scene contrast of a quiet toxic lake shoreline and an erupting volcano plume on the horizon, a vast landscape of slow and sudden danger | AH | ST | ominous, reflective | ash rises on the horizon while the lake lies still
+9 | !Scientists in orange protective suits and gas masks walking along the steaming rim of a volcanic crater carrying sampling equipment | GW | OV | determined, tense | researchers advance carefully toward the crater edge
+10 | !A small village of tin-roofed houses built at the foot of a smoking volcano with farmland in between, people walking on a dirt road | AO | GH | resilient, uneasy | villagers go about their day beneath the smoking peak
+11 | !The full Earth glowing in space with its night side lit by city lights and a faint orange volcanic glow, a cinematic title-card style composition | SP | NT | epic, ominous | Earth slowly rotates in darkness
+
+@ 1. LAKE NATRON — Tanzania | Lake Natron in northern Tanzania, a vast shallow red and pink alkaline soda lake with white salt crust and dry savanna, the cone of Ol Doinyo Lengai volcano on the horizon
+12 | The lake seen from far above near the Kenyan border, savanna and rift-valley escarpment surrounding it | AH | SB | remote, ominous | the camera drifts over the empty borderland toward the lake
+13 | The flat red lake surface stretching toward the dark volcanic cone of Ol Doinyo Lengai | AO | GH | brooding, still | the volcano looms over the motionless lake
+14 | A jagged crimson patch of water cutting through tan savanna like an open wound | TD | SB | unsettling, striking | the camera slowly rotates above the red pattern
+15 | Crimson water meeting brilliant white salt crust in sharp abstract patterns | TD | SB | alien, beautiful | the shadow of a cloud slides across the crust
+16 | Pink shallows blending into rust-orange water in soft gradients | TD | GH | dreamlike, eerie | gentle ripples move across the pink shallows
+17 | Wide establishing view of the entire lake glowing red under the volcano at sunset | AH | GH | majestic, ominous | the camera rises slowly to reveal the whole lake
+18 | Swirling red and orange microbial blooms in the shallow water | CU | SB | scientific, strange | microbial colors swirl in the water
+19 | Thick red salt-loving bacterial mats coating the lake edge in textured layers | CU | SB | alien, fascinating | tiny bubbles rise through the red mat
+20 | Steaming caustic shallows with a crusted white rim and nothing alive in sight | LA | OV | warning, hostile | the drone skims low over the lifeless water
+21 | The steep grey cone of Ol Doinyo Lengai volcano south of the lake, streaked with pale carbonatite lava flows | LL | SB | powerful, looming | wisps of gas rise from the volcano summit
+22 | Grey volcanic ash drifting across the plain toward the red lake | AO | ST | ominous, heavy | ash blows across the landscape toward the water
+23 | Close detail of cracked white soda crust over red brine | CU | SB | toxic, harsh | brine seeps through cracks in the crust
+24 | Shimmering heat haze rising above bright pink shallow water | LA | SB | stifling, dangerous | heat waves ripple above the shallows
+25 | A researcher's gloved hand holding a pH test strip that has turned dark purple above the red water | CU | SB | alarming, clinical | the test strip changes color
+26 | Small tilapia fish gathered around a clear hot spring where it flows into the lake edge | CU | SB | fragile, hopeful | fish dart in the diluted spring water
+27 | White mineral crust forming delicate crystalline structures along the shore | CU | GH | mysterious, eerie | crystals glint in the low sun
+28 | A calcified bird lying on the white salt crust, preserved perfectly, wings folded | CU | GH | haunting, still | wind stirs fine salt around the stone-like bird
+29 | A chalk-white calcified bat preserved like a stone sculpture on the shoreline | CU | OV | eerie, haunting | the camera slowly circles the calcified bat
+30 | !Ancient Egyptian natron salt jars and linen wrappings in a dim stone tomb chamber, golden lamp light | EL | GL | ancient, solemn | dust drifts in the lamplight over the jars
+31 | A calcified bird encased in a pale chalky mineral shell resting on red-stained crust | CU | OV | macabre, still | the camera pushes in slowly on the shell texture
+32 | A calcified swallow with feathers intact and wings spread, frozen mid-flight on the salt | CU | GH | haunting, beautiful | low sun catches every preserved feather
+33 | A line of calcified birds standing upright on a branch at the edge of the red lake | EL | DU | eerie, surreal | the sky darkens behind the frozen birds
+34 | A distant pink haze of flamingos appearing across the red water | LL | GH | hopeful, turning | the pink band shimmers in the heat
+35 | Hundreds of thousands of lesser flamingos covering the lake in a vast pink carpet | AH | GH | spectacular, abundant | flocks shift and ripple across the water
+36 | Dense crowds of flamingos packed onto white salt islands in the middle of the lake | TD | SB | crowded, astonishing | birds move in waves across the salt islands
+37 | Flamingos wading confidently through the caustic red shallows | LL | GH | defiant, graceful | flamingos stride through the shallow water
+38 | Wide caustic mudflats separating the flamingo colony from the dry shore | AO | SB | protective, isolated | the camera reveals the barrier of toxic water
+39 | A black-backed jackal standing at the edge of the white crust, watching the distant flamingos | LL | GH | tense, frustrated | the jackal paces along the shoreline
+40 | A spotted hyena pausing at the caustic shoreline and turning away | LL | DU | thwarted, tense | the hyena sniffs the water and retreats
+41 | Fluffy grey flamingo chicks huddled together on a salt island | LL | GH | tender, fragile | chicks shuffle together in a crèche
+42 | Flamingo adults feeding chicks among mud nests surrounded by red caustic water | AO | GH | defiant, protective | an adult lowers its head to feed a chick
+43 | A lone calcified bird on the crust in the foreground with the empty red lake behind | LO | DU | grim, stark | dusk light fades over the frozen bird
+44 | Flamingo colony rising into flight over the red lake | AO | GH | protective, uplifting | a flock lifts off and wheels over the water
+45 | Wide aerial of the red lake with flamingos at the center and the volcano behind | AH | DU | reflective, majestic | the camera pulls back to reveal the full lake
+
+@ 2. LAKE NYOS — Cameroon | Lake Nyos in the volcanic highlands of northwest Cameroon, a deep blue crater lake ringed by steep green hills and small farms
+46 | !An aerial view across the green rolling volcanic hills of northwest Cameroon toward the distant blue crater of Lake Nyos | AH | SB | deceptively calm | the drone glides westward over green hills
+47 | Green volcanic hills and highland grasslands surrounding the lake | AO | SB | serene, remote | clouds drift over the highlands
+48 | The perfectly still blue lake surface reflecting the sky inside its crater walls | AO | SB | serene, unsettling | not a ripple moves on the water
+49 | Small farms and cattle pastures on green slopes around the lake | AH | GH | peaceful, ordinary | cattle graze on the hillsides
+50 | The glassy lake surface close up with no bubbles or movement | LA | OV | silent, eerie | the drone skims the motionless water
+51 | The lake at dusk with a faint pale mist rising from its center | AO | DU | ominous, foreboding | a pale haze lifts off the water
+52 | !A cinematic cutaway view into Lake Nyos, a volcanic crater lake in Cameroon, showing cold deep water layered over glowing magma far below | AO | GL | scientific, ominous | faint gas bubbles rise from the magma
+53 | Deep murky blue-green water in the depths of the lake with tiny gas bubbles suspended | UW | UL | heavy, mysterious | microscopic bubbles drift upward
+54 | Cold dense water at the bottom of the lake absorbing a slow stream of rising gas bubbles | UW | DK | hidden, building | gas dissolves into the cold deep water
+55 | !A sealed glass bottle of sparkling water sitting on a rock at the edge of Lake Nyos, a calm blue crater lake in the hills of Cameroon | CU | SB | tense, symbolic | bubbles cling to the inside of the bottle
+56 | A rockslide tumbling down the steep crater wall into the lake | LL | OV | sudden, alarming | rocks splash into the water
+57 | The surface of the lake turning murky as water layers churn below | AO | ST | unstable, tense | dark water swirls upward
+58 | A huge eruption of white mist and water bursting from the lake center | AO | DU | catastrophic, violent | a column of gas and spray explodes upward
+59 | A dense pale ground-hugging cloud spilling over the crater rim | AO | DU | silent, deadly | the cloud overflows the lake basin
+60 | The gas cloud flowing down a green valley like a slow white river | AH | DU | creeping, terrifying | the cloud rolls down the valley floor
+61 | A low white fog creeping between huts and trees at ground level | GW | NT | silent, suffocating | the fog fills the valley without a sound
+62 | A thatched-roof village in a valley shrouded in low eerie haze at night | AO | NT | silent, dreadful | haze settles over the dark houses
+63 | Empty dirt paths and silent houses in a highland village at dawn | GW | DW | sorrowful, still | mist slowly lifts from the empty village
+64 | A distant herd of cattle lying motionless in a misty green field | LL | DW | somber, haunting | morning mist drifts over the still field
+65 | Silent highland forest with no birds, mist hanging between trees | GW | DW | eerie, lifeless | mist drifts with no sign of life
+66 | A row of simple memorial crosses on a hillside overlooking the blue lake | GW | OV | mournful, quiet | wind moves the grass around the memorials
+67 | The calm blue lake from a hillside with no trace of what happened | AO | SB | haunting, deceptive | clouds drift over the peaceful water
+68 | The lake at sunset reflecting a calm golden sky | LL | GH | mournful, deceptive | the sun sinks behind the crater rim
+69 | A white degassing pipe rising from a floating platform in the center of the lake, spraying a fountain of water and gas | AO | SB | controlled, hopeful | a steady fountain of gas-rich water sprays upward
+70 | Several degassing fountains spraying steadily from platforms on the blue lake | LL | GH | steady, reassuring | the fountains pulse rhythmically
+71 | A tall white plume of spray from a degassing pipe drifting in the wind | AO | BL | calm, ongoing | spray drifts away on the breeze
+72 | A cross-section view of the lake showing gas rising from magma below | AO | GL | ominous, ongoing | gas seeps upward from the volcanic depths
+
+@ 3. LAKE KIVU — Rwanda and the Democratic Republic of the Congo | Lake Kivu on the border of Rwanda and the Democratic Republic of the Congo, a vast deep-blue lake with green terraced hills, island-studded bays and lakeside towns
+73 | !Lake Nyos as a small blue crater lake seen from high above, dwarfed by surrounding hills | AH | SB | diminishing, building | the camera pulls up and away from the small lake
+74 | A massive blue lake stretching toward the horizon between two countries | AH | SB | vast, expansive | the camera reveals the full length of the lake
+75 | The long lake winding into the distance between steep green mountains | AH | GH | grand, sweeping | the drone flies along the lakeshore
+76 | Wooden fishing boats with long poles gliding across calm blue water at dawn | AO | DW | peaceful, timeless | fishermen row in formation across the bay
+77 | Dense lakeside towns with houses climbing the green hills down to the water | AO | GH | crowded, lively | traffic and people move along the shore road
+78 | Dark deep water beneath the calm blue surface | UW | UL | foreboding, hidden | light fades into the black depths
+79 | Deep dark lake water with faint layers of gas bubbles trapped in the depths | UW | DK | hidden, deadly | gas bubbles shimmer in the dark water
+80 | Microscopic bubbles of dissolved gas suspended in deep murky water | UW | DK | ominous, mysterious | bubbles drift slowly through the dark
+81 | !A cinematic cutaway of Lake Kivu between Rwanda and the Congo, a vast pale methane layer glowing faintly deep beneath the blue surface | AO | DK | massive, threatening | the hidden gas layer glows beneath the water
+82 | Still dark water at great depth with fine sediment suspended in layers | UW | DK | heavy, uneasy | sediment hangs motionless in the layers
+83 | The calm lake surface at dusk under a darkening sky | AO | DU | uneasy, suspenseful | the light fades over the water
+84 | The Nyiragongo volcano smoking on the northern horizon beyond the lake | LL | DU | looming, tense | a plume of steam rises from the distant volcano
+85 | Cracked ground and a tilted lakeside wall after a tremor | GW | OV | unstable, uneasy | dust settles from the fractured ground
+86 | Scientists on a research boat lowering instruments into the lake | EL | OV | focused, uneasy | a sensor cable spools into the water
+87 | Turbulent water churning in the middle of the lake | AO | ST | sudden, dangerous | the surface boils with rising water
+88 | A floating industrial gas extraction platform anchored in the blue lake | AO | SB | industrious, hopeful | the platform hums with activity
+89 | A gas extraction barge with pipes descending into the deep water | LL | SB | determined, technical | workers move along the platform deck
+90 | Power lines running from the lake shore to a hillside town | AO | GH | productive, hopeful | the lines stretch over green hills
+91 | A lakeside town glowing with electric light at night | AO | NT | hopeful, transformative | lights flicker on across the hills
+92 | Pipes carrying deep water up to the surface platform | CU | SB | steady, controlled | water flows steadily through the pipes
+93 | Sensor buoys floating on the lake surface | LL | SB | vigilant, technical | the buoys bob gently on the water
+94 | A monitoring screen on a research boat showing temperature and gas data | CU | OV | vigilant, scientific | data lines update on the screen
+95 | Engineers in hard hats returning treated water through a discharge pipe | EL | SB | careful, precise | water flows back into the lake
+96 | Calm layered water returning slowly to the depths | UW | UL | stable, measured | water drifts gently downward
+97 | Imagined giant pale gas cloud rising from the lake surface and rolling toward the shore towns | AH | ST | catastrophic, foreboding | the cloud spreads over the water
+98 | The vast lake with a faint white haze spreading across its entire surface | AH | DU | massive, terrifying | the haze expands across the lake
+99 | Two lakes compared: a tiny crater lake beside a vast inland sea | AH | SB | sobering, vast | the camera widens to show the scale
+100 | Crowded lakeshore streets full of people and motorbikes | AO | GH | vulnerable, bustling | traffic flows along the waterfront
+101 | Sunrise over the gas extraction platform in the calm lake | AO | DW | hopeful, gradual | the sun rises behind the platform
+102 | A lakeside town glowing warmly at dusk | AO | DU | hopeful, warm | lights turn on across the hillside
+103 | The lake at night with hillside towns lit up around it and the platform glowing offshore | AH | NT | hopeful, reflective | the camera slowly pulls back over the lit shoreline
+104 | Lights shining from homes along the shore with the platform glowing on the water | AO | NT | reassuring, reflective | the lights reflect on the calm lake
+
+@ 4. VALLEY OF DEATH — Kamchatka, Russia | The Valley of Death in the Kronotsky Nature Reserve on Russia's Kamchatka Peninsula, a narrow volcanic valley of steaming vents, bare grey and ochre stone, snow patches and sparse tundra at the foot of a volcano
+105 | !The remote volcanic Kamchatka Peninsula in Russia's far east, snow-capped volcanoes rising above wild tundra and rivers | AH | SB | remote, wild | the drone flies over endless wilderness
+106 | Low ground in the valley where a faint shimmer hangs in the air | LA | OV | invisible, threatening | the air shimmers above the hollow
+107 | Volcanic peaks and steaming hillsides of the nature reserve | AH | GH | wild, majestic | steam rises from scattered vents
+108 | A narrow valley at the foot of a snow-capped volcano | AO | OV | isolated, ominous | the drone descends into the valley
+109 | Steaming vents, bare stone and patches of snow | GW | OV | stark, uneasy | steam drifts from cracks in the rock
+110 | Peaceful valley floor with a small stream and wildflowers | GW | GH | deceptively calm | water trickles past the stones
+111 | A dead fox lying on bare stone in the valley | LL | OV | grim, shocking | wind ruffles the animal's fur
+112 | Small animals lying where they fell on ochre stone | LL | OV | grim, eerie | the camera slowly pans across the valley floor
+113 | Thin gas vapors seeping from cracks in the ground | CU | OV | toxic, silent | vapor curls out of the rock
+114 | A windless valley with gas pooling in the hollow | AO | OV | stagnant, deadly | heavy air sits motionless in the low ground
+115 | Yellow sulfur crust around a hissing vent | CU | SB | toxic, harsh | gas hisses from the sulfur vent
+116 | The valley floor with an invisible gas layer suggested by shimmering air | LA | OV | invisible, deadly | heat haze ripples above the hollow
+117 | A small hare hopping into the valley hollow | LL | OV | tragic, tense | the hare stops in the still air
+118 | A raven circling above the valley floor | LO | OV | ominous, predatory | the raven descends toward the hollow
+119 | A wolverine creeping toward the valley carcasses | LL | OV | tense, doomed | the wolverine moves cautiously downhill
+120 | A brown bear walking down the slope into the valley | LL | GH | tense, foreboding | the bear sniffs the air as it descends
+121 | The bear lowering its head into the still hollow | LL | OV | dreadful, tense | the bear steps into the low ground
+122 | A brown bear lying motionless beside a carcass on bare stone | LL | OV | tragic, somber | wind moves across the silent valley
+123 | Scavenger birds circling above a valley littered with remains | AO | OV | cyclical, grim | birds wheel slowly over the hollow
+124 | The valley floor seen from above with scattered dark shapes | TD | OV | haunting, cyclical | the camera rises slowly
+125 | Scientists in respirators carrying handheld gas monitors along the valley edge | GW | OV | cautious, urgent | a researcher checks a beeping monitor
+126 | A ranger watching a windsock on a ridge above the valley | EL | OV | vigilant, tense | the windsock hangs limp in the still air
+127 | A wooden ranger hut on a ridge overlooking the valley | AO | GH | remote, quiet | smoke drifts from the hut chimney
+128 | The narrow valley stretching beneath the volcano at dusk | AO | DU | ominous, final | the light fades over the valley
+129 | The full valley revealed as a short narrow gash in the volcanic landscape | AH | OV | sobering, small | the camera rises high above the tiny valley
+
+@ 5. RÍO TINTO — Spain | The Río Tinto in Andalusia, southwestern Spain, a blood-red and orange acidic river winding through ochre hills, rust banks and old open-pit mines
+130 | !A clear mountain river full of fish and green plants flowing through a forest | AO | SB | gentle, alive | water flows over mossy stones
+131 | Hills of Andalusia with a red river cutting through them | AH | SB | strange, striking | the drone flies over the dry hills
+132 | The blood-red river winding through ochre hills | AO | SB | vivid, unsettling | the red water flows around bends
+133 | Orange banks and purple pools along the riverbed | TD | SB | alien, painterly | water trickles between colored pools
+134 | Rust-colored water flowing over iron-stained stones | CU | SB | toxic, rich | the water glistens over red rocks
+135 | Wide view of the red river snaking into the distance | AH | GH | iconic, eerie | the camera rises to show the full river
+136 | Ancient terraced open-pit mines carved into the hills | AH | GH | ancient, scarred | the drone sweeps over the vast pit
+137 | Veins of copper ore and mineral-stained rock | CU | SB | rich, ancient | light glints on metallic veins
+138 | Roman mine tunnels cut into red rock | GW | GL | historic, eerie | lamp light flickers inside the tunnel
+139 | A massive industrial open-pit mine with stepped terraces and rusting machinery | AH | GH | industrial, destructive | dust drifts over the abandoned machinery
+140 | Red river flowing past mineral-rich hills | AO | SB | toxic, rich | water stains the rocks red
+141 | Layers of metallic minerals exposed in a riverbank | CU | SB | dense, rich | light reflects from the mineral layers
+142 | The river absorbing orange runoff from the hills | AO | SB | toxic, absorbing | orange water joins the red river
+143 | Iron-red water close up with a metallic sheen | CU | SB | toxic, harsh | ripples glint with metallic color
+144 | A pH meter reading strongly acidic held over the red water | CU | SB | clinical, alarming | the display reads around pH 2
+145 | Bare lifeless riverbanks with no fish in the water | GW | SB | barren, harsh | the empty water flows on
+146 | Dead white tree stumps along the stained banks | GW | OV | barren, desolate | wind moves over the bare banks
+147 | Strange green and orange microbial films on the red water | CU | SB | surprising, alive | microbial films ripple in the current
+148 | Microscopic iron-eating microbes visualized as glowing clusters in red water | CU | SB | microscopic, fascinating | the microbes pulse in the water
+149 | Microbial mats layered across a red riverbed | CU | SB | alien, alive | bubbles rise from the mats
+150 | Scientists in waders sampling red water into vials | EL | SB | curious, scientific | a researcher fills a sample vial
+151 | A Mars-like red landscape beside the river with a science team at work | GW | GH | otherworldly, exploratory | a team sets up instruments
+152 | !The rust-red surface of Mars with dry riverbeds, seen from orbit | SP | SB | exploratory, alien | the planet rotates slowly
+153 | Scientists studying microbes under a field microscope beside the red river | EL | SB | hopeful, curious | a researcher adjusts the microscope
+154 | !An ancient dry acidic riverbed on the red surface of Mars | AO | SB | hopeful, alien | dust drifts over the ancient channel
+155 | The red river at sunset glowing like molten metal | AO | GH | reflective, awe | the light shifts across the water
+156 | The red river under a starry night sky with the planet Mars glowing faintly above the hills | GW | NT | wondrous, hopeful | stars wheel slowly over the red water
+
+@ 6. THE BOILING RIVER — Peru | Shanay-Timpishka, the Boiling River in the Peruvian Amazon, a turquoise and brown river steaming through dense rainforest canopy
+157 | The dense rainforest canopy with a thin river hidden below | AH | DW | mysterious, remote | the drone flies over the jungle
+158 | The steaming river winding through the trees | AO | DW | mysterious, ominous | steam rises from the water
+159 | Thick white steam hanging over the river like morning mist | GW | DW | eerie, dreamlike | mist drifts between the trees
+160 | The camera moving close to the steaming water through the forest | LA | DW | suspenseful, curious | the drone glides toward the steam
+161 | Hot water boiling over rocks with heavy steam | CU | SB | dangerous, intense | bubbles and steam rise from the water
+162 | Scalding water churning over pale stones | CU | SB | dangerous, intense | steam billows off the surface
+163 | A local guide standing on rocks beside the steaming river | EL | DW | respectful, mysterious | the guide gazes at the steaming water
+164 | Sunlight breaking through steam above the river | GW | BL | spiritual, intense | sunbeams pierce through the vapor
+165 | The river stretching for kilometers through the jungle | AH | SB | vast, surprising | the camera follows the river's course
+166 | The river flowing through jungle with steam drifting over it | AO | SB | relentless, hot | steam trails along the river
+167 | A thermometer dipped into the river showing over 90 degrees Celsius | CU | SB | alarming, clinical | the reading climbs
+168 | Bubbling water near the riverbank | CU | SB | dangerous, intense | the water surface rolls and bubbles
+169 | A small frog perched at the edge of a scalding stream | CU | SB | precarious, tense | the frog edges toward the water
+170 | A lizard on a steaming rock near the water | CU | SB | precarious, tense | the lizard slips closer to the edge
+171 | Leaves and debris carried downstream through steam | GW | SB | relentless, grim | the current sweeps debris away
+172 | Jungle mountains with no volcano in sight | AH | SB | puzzling, mysterious | the camera scans the horizon
+173 | Geothermal water rising through cracks in the riverbed | CU | SB | geological, powerful | hot water wells up from below
+174 | A cross-section of faulted rock with water seeping deep underground | AO | GL | scientific, intriguing | water trickles down through faults
+175 | Hot water rising from deep underground through fractured rock | AO | GL | powerful, hidden | heated water flows upward
+176 | Water bubbling up into the riverbed | CU | SB | powerful, hidden | water surges up through the stones
+177 | A shaman in traditional dress standing beside the steaming river | EL | DW | sacred, spiritual | the shaman raises his hands toward the steam
+178 | A simple wooden shamanic retreat on the riverbank among the trees | AO | DW | spiritual, peaceful | smoke rises from the retreat
+179 | The hottest stretch of the river shrouded in thick steam | GW | FG | sacred, mysterious | steam swirls over the water
+180 | Old explorer maps of the Amazon with the river marked as legend | CU | GL | historical, skeptical | lamplight flickers over the map
+181 | A researcher measuring the river temperature from a rock | EL | SB | vindicating, scientific | the researcher reads a thermometer
+182 | The steaming river winding through the Amazon at sunset | AH | GH | awe, dangerous | the camera rises above the steaming river

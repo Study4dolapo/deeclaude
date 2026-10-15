@@ -1,0 +1,242 @@
+641 | Water dripping and flowing through a deep cave passage lit by headlamps | EL | DK | alive, ominous | water trickles down the rock walls
+642 | !Snow melting on the limestone peaks of the Arabika Massif in Abkhazia, Georgia, with meltwater pouring into sinkholes | AO | SB | building, ominous | meltwater streams into cracks
+643 | Underground water rising quickly in a narrow cave passage | EL | DK | urgent, terrifying | the water level climbs the rock
+644 | A dry cave passage suddenly filling with rushing water | GW | DK | sudden, dangerous | water floods the passage
+645 | Cavers climbing ropes upward in a hurry | LO | DK | urgent, desperate | headlamps bob up the shaft
+646 | Floodwater surging up a shaft behind climbing cavers | LO | DK | terrifying, desperate | water churns below the climbers
+647 | A dark flooded sump pool at the bottom of the cave | EL | DK | mysterious, final | a headlamp beam touches the still water
+648 | A flooded passage disappearing into black water | UW | DK | mysterious, unknown | the light fades into the passage
+649 | An unexplored dark underwater tunnel | UW | DK | unknown, haunting | particles drift in the beam
+650 | A caver's headlamp shining into an endless dark shaft | LO | DK | humbling, reflective | the beam fades into the dark
+651 | A lone headlamp glowing at the edge of the deepest known point | EL | DK | humbling, open-ended | the light flickers on the water
+
+@ 24. THE YUNGAS ROAD — Bolivia | The Yungas Road, Bolivia's "Death Road", a narrow dirt track carved into sheer green Andean cliffs, dropping from snowy peaks into misty rainforest valleys
+652 | Snowy Andean peaks above deep green valleys | AH | SB | majestic, vertiginous | clouds drift over the peaks
+653 | A dirt road winding down from snowy peaks into rainforest | AH | FG | dramatic, perilous | the drone follows the road downhill
+654 | The road snaking down thousands of meters of mountainside | AH | GH | vertiginous, epic | the camera traces the switchbacks
+655 | The road passing from snowy heights into lush tropical forest | AO | FG | transformative, dramatic | mist rises from the jungle
+656 | Wide view of the narrow road carved into a cliff | AO | FG | iconic, terrifying | the drone hovers beside the cliff
+657 | A narrow single-lane road on a cliff edge | AO | OV | tense, perilous | a vehicle edges along the road
+658 | A road edge with no guardrail above a sheer drop | LA | OV | terrifying, exposed | the camera passes over the edge
+659 | A sheer cliff dropping hundreds of meters below the road | TD | FG | dizzying, terrifying | mist swirls in the valley
+660 | A waterfall pouring across the road | GW | OV | dangerous, wild | water splashes over the track
+661 | Slick mud covering the road surface | CU | OV | treacherous, dangerous | tires slide in the mud
+662 | Fog rolling over the road edge erasing the drop | GW | FG | deceptive, deadly | fog swallows the edge
+663 | !A photoreal historical recreation of buses and trucks on the narrow Yungas cliff road in the Bolivian Andes | AO | FG | historic, perilous | a bus inches along the edge
+664 | The road linking high mountains to Amazon lowlands | AH | FG | vital, perilous | traffic moves down the road
+665 | A bus and truck squeezing past each other on the cliff | AO | OV | tense, perilous | the vehicles inch past
+666 | Two vehicles meeting on a narrow cliff road | AO | OV | tense, perilous | both vehicles stop
+667 | A truck reversing along a cliff edge | GW | OV | terrifying, tense | a wheel hangs near the drop
+668 | A truck tire at the very edge of the cliff | CU | OV | terrifying, precarious | gravel falls into the void
+669 | Roadside crosses lining a bend on the cliff | GW | FG | mournful, sobering | mist drifts past the crosses
+670 | A cross on the road edge above a deep valley | CU | FG | somber, tragic | wind moves the flowers on the cross
+671 | The infamous road seen from above, hugging the cliffs | AH | FG | infamous, epic | the road curves around the mountain
+672 | A sign reading Death Road on the mountain route | GW | FG | iconic, chilling | mist drifts around the sign
+673 | A modern paved highway on the opposite mountainside | AH | SB | safe, modern | traffic flows on the new road
+674 | The old dirt road quiet and empty | AO | FG | quiet, haunting | mist drifts over the road
+675 | A lone cyclist appearing on the old road | LL | FG | adventurous, surprising | the cyclist rounds a bend
+676 | Mountain bikers racing down the cliff road | AO | SB | thrilling, adventurous | the group speeds downhill
+677 | Mountain bikers on the edge of a sheer drop | LA | SB | thrilling, risky | bikers whiz past the edge
+678 | The cliffs and road at sunset unchanged | AO | GH | timeless, ominous | shadows stretch over the cliffs
+
+@ 25. LA RINCONADA — Peru | La Rinconada in the Peruvian Andes, the highest permanent settlement in the world at over 5,000 meters, a sprawl of tin-roofed shacks beneath a white glacier
+679 | The Andes rising into thin clouds | AH | SB | lofty, extreme | clouds drift below the peaks
+680 | A town high in the mountains near the clouds | AH | SB | lofty, astonishing | the drone rises toward the town
+681 | Rugged high Andean terrain at extreme altitude | AH | SB | extreme, harsh | wind blows across the peaks
+682 | A town of tin-roofed shacks clinging to slopes below a glacier | AO | SB | precarious, harsh | smoke rises from the shacks
+683 | Wide view of the town and glacier | AH | SB | iconic, harsh | the camera rises above the town
+684 | The town as the highest settlement on Earth | AH | SN | record, extreme | snow dusts the rooftops
+685 | Crowded streets and markets in the high town | AO | OV | crowded, gritty | people move through the streets
+686 | A resident breathing heavily on a steep slope | EL | OV | strained, harsh | breath clouds in the cold air
+687 | A steep staircase between shacks with a resident climbing | GW | OV | exhausting, harsh | the climber pauses for breath
+688 | The town covered in frost at night | AO | NT | freezing, harsh | frost glitters on the roofs
+689 | Muddy streets with no running water or sewage | GW | OV | harsh, polluted | water pools in the mud
+690 | Polluted runoff flowing down from the mines | CU | OV | toxic, harsh | grey water trickles downhill
+691 | Mercury-stained ice and soil near the mines | CU | OV | toxic, harsh | runoff seeps into the snow
+692 | Residents looking out over the town | EL | GH | questioning, curious | they gaze across the slopes
+693 | Gold flakes glinting in a miner's palm | CU | GH | tempting, precious | the gold sparkles
+694 | The glacier above the mines with gold-bearing rock below | AO | SB | tempting, harsh | sunlight glints on the ice
+695 | Miners entering a narrow tunnel with picks and dynamite | EL | DK | dangerous, determined | headlamps flicker in the tunnel
+696 | A miner chipping at rock in a dark tunnel | CU | DK | grueling, hopeful | sparks fly from the pick
+697 | Miners trudging through a tunnel entrance | GW | OV | weary, determined | they carry sacks of rock
+698 | Miners working day after day in the tunnels | EL | DK | grueling, relentless | dust swirls in the lamp light
+699 | A miner emerging from a tunnel with a heavy sack | EL | GH | hopeful, tense | he hefts the sack onto his back
+700 | Miners carrying sacks of ore out of the mine | GW | GH | hopeful, weary | they walk down the slope
+701 | A pile of dull rock with no gold | CU | OV | disappointing, harsh | dust blows over the rocks
+702 | A miner holding a shining gold nugget | CU | GH | hopeful, life-changing | the nugget glints
+703 | An older miner walking past the shacks | EL | DU | persistent, weary | he walks toward the mines
+704 | The town glowing at dusk below the glacier | AO | DU | haunting, determined | lights flicker on
+705 | The town clinging to the mountain at altitude | AH | DU | harsh, sobering | the camera rises into thin air
+
+@ 26. ANNAPURNA — Nepal | Annapurna I in central Nepal, an immense wall of ice and rock towering above the clouds, with hanging glaciers, seracs and avalanche-swept faces
+706 | The Himalayas rising above green valleys of central Nepal | AH | SB | majestic, imposing | clouds drift through the valleys
+707 | A massive wall of ice and rock above the clouds | AO | SB | majestic, imposing | clouds swirl around the peak
+708 | The summit of Annapurna I | LL | GH | iconic, imposing | golden light hits the summit
+709 | !A photoreal historical recreation of the 1950 French expedition climbing the snowy slopes of Annapurna, Nepal, with ropes | LL | SN | historic, pioneering | climbers move in a line
+710 | Climbers reaching a high snowy summit | LL | SN | triumphant, historic | flags flutter in the wind
+711 | Distant Himalayan peaks seen beyond Annapurna | AH | SB | historic, grand | the camera pans across the peaks
+712 | Annapurna under dark storm clouds | AO | ST | ominous, deadly | clouds swirl around the summit
+713 | A line of climbers far below the summit | LL | SN | daring, perilous | they move slowly upward
+714 | A lone climber at the summit with clouds below | LL | SN | triumphant, sobering | wind whips snow off the ridge
+715 | Annapurna beside taller peaks in the distance | AH | SB | ironic, humbling | the camera compares the peaks
+716 | Unstable ice cliffs hanging above a route | LO | SN | ominous, precarious | snow trickles from the ice
+717 | Huge seracs the size of buildings | LO | SN | imposing, terrifying | ice cracks loudly
+718 | Seracs looming above a climbing route | LO | SN | menacing, precarious | climbers pass beneath
+719 | A serac collapsing in a cloud of ice | LL | SN | sudden, terrifying | ice crashes downward
+720 | An avalanche roaring down the south face | LL | SN | overwhelming, terrifying | snow cascades down the face
+721 | A storm closing in over the mountain | AO | ST | ominous, relentless | clouds engulf the peak
+722 | A climbing camp buried under fresh snow | GW | ST | tragic, sobering | snow covers the tents
+723 | Trekking routes in the valleys below the peak | AH | OV | deceptive, ominous | clouds move over the trails
+724 | !The Thorong La trekking pass in the Annapurna region of Nepal under a darkening autumn sky | AO | ST | foreboding, ominous | clouds roll in quickly
+725 | A sudden blizzard engulfing trekkers on a mountain pass | GW | ST | sudden, terrifying | snow blasts across the trail
+726 | Snow-covered trail markers and abandoned packs | GW | OV | tragic, somber | snow settles over the gear
+727 | Climbers setting out toward the mountain | GW | SB | determined, brave | they shoulder their packs
+728 | Climbers celebrating on a summit | LL | SN | triumphant, fleeting | they raise their arms
+729 | Climbers descending safely from the mountain at sunset | LL | GH | relief, wisdom | they walk down the slope
+
+@ 27. THE SIACHEN GLACIER — Karakoram | The Siachen Glacier in the eastern Karakoram, a vast river of ice between towering jagged peaks at extreme altitude, with small isolated outposts on frozen ridges
+730 | High jagged peaks in the Karakoram | AH | SN | stark, extreme | clouds drift over the ridges
+731 | A small outpost on a frozen ridge | AO | SN | isolated, duty | snow blows over the camp
+732 | The Karakoram mountains between India and Pakistan | AH | SN | vast, contested | the camera sweeps over the peaks
+733 | A long glacier winding between the peaks | AH | SN | immense, frozen | the drone follows the glacier
+734 | The glacier among some of Earth's highest mountains | AH | SN | monumental, harsh | the camera rises higher
+735 | Wide view of the glacier and surrounding peaks | AH | SN | iconic, harsh | shadows move across the ice
+736 | Soldiers in white winter gear on a snowy ridge, seen from a distance | LL | SN | determined, enduring | they trudge through snow
+737 | An outpost at very high altitude among clouds | AO | SN | extreme, isolated | wind blows snow off the roof
+738 | Distant outposts scattered across frozen peaks | AH | SN | unusual, sobering | the camera reveals the camps
+739 | A frozen ridge with no enemy in sight | GW | SN | ironic, harsh | wind sweeps over the ridge
+740 | The glacier and mountain looming over a small camp | AO | ST | overwhelming, menacing | storm clouds gather
+741 | Frost-covered gear and a thermometer showing extreme cold | CU | SN | brutal, extreme | frost grows across the glass
+742 | Wind tearing across a high ridge | LA | ST | violent, relentless | snow blasts across the ridge
+743 | An avalanche sweeping down toward a camp | LL | SN | terrifying, sudden | snow crashes down the slope
+744 | A hidden crevasse opening in the glacier | CU | SN | treacherous, hidden | snow collapses into the crack
+745 | A soldier resting with labored breathing at altitude | EL | SN | strained, exhausted | breath clouds in the air
+746 | A soldier awake in a tent at night | EL | DK | exhausted, uneasy | a lamp flickers
+747 | Frostbitten gloves and boots on a snowy ledge | CU | SN | harsh, dangerous | snow drifts over the gloves
+748 | Memorial markers on the glacier | GW | SN | mournful, sobering | snow blows over the markers
+749 | Avalanche debris across the glacier | AO | SN | tragic, overwhelming | snow settles over the debris
+750 | A helicopter flying over the glacier | AO | SN | vital, daring | the rotor kicks up snow
+751 | A helicopter hovering in thin mountain air | LL | SN | strained, daring | the helicopter struggles to stay level
+752 | A helicopter near the limits of its flight ceiling | LL | SN | tense, technical | the rotor blades blur
+753 | Supply crates dropped onto the ice | AO | SN | resourceful, harsh | crates tumble onto the snow
+754 | Soldiers boarding a helicopter to leave | EL | SN | relieved, tired | they climb aboard
+755 | An empty outpost buffeted by wind | GW | ST | temporary, harsh | snow drifts into the camp
+756 | The vast empty glacier with no settlements | AH | SN | desolate, majestic | the camera glides over the ice
+757 | A small outpost light glowing on the glacier at dusk | AO | DU | enduring, solemn | the light flickers in the dark
+
+@ 28. MOUNT RAINIER — Washington, United States | Mount Rainier southeast of Seattle in Washington State, a towering snow-capped glacier-covered volcano rising above forests, rivers and towns in the valleys below
+758 | A transition from snow-covered peaks to a smoking volcanic summit | AH | SN | transitional, ominous | snow gives way to steam
+759 | The snow-capped mountain towering over the Seattle skyline | LL | GH | majestic, looming | the mountain glows above the city
+760 | The mountain visible from towns and highways across the region | LL | SB | omnipresent, iconic | traffic flows below the peak
+761 | The full snow-capped mountain on a clear day | AO | SB | iconic, grand | clouds drift past the summit
+762 | Wildflower meadows below the mountain | GW | GH | picturesque, deceptive | flowers sway in the breeze
+763 | Steam vents near the summit crater | CU | SN | dangerous, revealing | steam rises from the rocks
+764 | The mountain looming over populated valleys | AH | ST | dangerous, ominous | clouds gather over the peak
+765 | A river valley with muddy deposits below the mountain | AO | OV | ominous, revealing | a river flows over old mud
+766 | Massive glaciers covering the mountain | AO | SN | immense, icy | the drone glides over the ice
+767 | Thick glaciers draped across the summit | AH | SN | heavy, precarious | light reflects on the ice
+768 | A landslide breaking away from the mountainside | LL | ST | sudden, violent | rock and ice tumble down
+769 | Glacial ice melting and collapsing | CU | SN | dangerous, unstable | meltwater pours from the ice
+770 | Mud mixing with rock and debris | CU | OV | heavy, dangerous | debris churns together
+771 | A lahar flowing down a valley | AO | ST | devastating, unstoppable | mud surges through the valley
+772 | A river of mud and debris carrying trees | AO | ST | violent, unstoppable | the flow sweeps everything along
+773 | Thick grey mud flowing like wet concrete | CU | ST | heavy, relentless | the flow churns forward
+774 | !A prehistoric landscape of a massive mudflow pouring from Mount Rainier toward the future Puget Sound, Washington | AH | ST | ancient, catastrophic | the lahar surges toward the coast
+775 | A mudflow reaching a distant coastline | AH | ST | catastrophic, vast | mud spreads into the water
+776 | Puget Sound today with the mountain behind | AH | GH | sobering, peaceful | ferries cross the water
+777 | Towns built on flat valley floors below the mountain | AO | GH | vulnerable, ordinary | cars move through the streets
+778 | Neighborhoods sitting on old lahar deposits | AO | GH | vulnerable, unaware | children play in parks
+779 | Entire towns in the valleys below the volcano | AH | GH | vulnerable, sobering | the camera reveals the towns
+780 | A lahar warning siren tower beside a road | LO | OV | vigilant, uneasy | the siren stands silent
+781 | Schoolchildren walking uphill during an evacuation drill | GW | OV | prepared, uneasy | teachers lead them uphill
+782 | The quiet mountain above the valley at sunset | LL | GH | ominous, serene | the mountain glows pink
+
+@ 29. SAKURAJIMA — Japan | Sakurajima, an active volcano rising from Kagoshima Bay in southern Japan, with ash plumes drifting over the city of Kagoshima across the water
+783 | !The southern Japan coastline of Kagoshima Bay with green hills and the smoking volcano Sakurajima in the bay | AH | SB | striking, ominous | the drone flies over the coast
+784 | The city of Kagoshima facing the volcano | AO | SB | bustling, uneasy | traffic flows through the city
+785 | The volcano across the bay from the city | LL | SB | looming, constant | ash drifts from the summit
+786 | The city skyline and harbor | AO | GH | iconic, urban | boats move in the harbor
+787 | Sakurajima smoking just across the water | LL | SB | iconic, dangerous | a plume rises from the crater
+788 | A small explosion erupting from the crater | LL | SB | sudden, routine | ash bursts upward
+789 | A tall ash plume rising thousands of meters | LL | SB | towering, dramatic | ash billows into the sky
+790 | Repeated eruptions over time | LL | DU | relentless, routine | explosions flash at dusk
+791 | Residents walking under ash-filled skies | GW | OV | routine, resigned | ash falls on the street
+792 | A weather forecast board showing ash wind direction | CU | OV | routine, practical | arrows show the wind
+793 | Ash drifting over the city in the wind | AO | OV | routine, eerie | ash clouds drift over rooftops
+794 | People holding umbrellas against falling ash | GW | OV | adaptive, surreal | ash pelts the umbrellas
+795 | Residents filling yellow bags with volcanic ash | CU | OV | practical, routine | hands scoop ash into bags
+796 | Bags of ash collected at a roadside collection point | GW | OV | organized, routine | a truck collects the bags
+797 | Villages on the volcano's lower slopes | AO | SB | resilient, risky | smoke drifts above the houses
+798 | Concrete shelters lining a road | GW | SB | prepared, ominous | ash dusts the shelter roof
+799 | A concrete shelter beside a road with ash falling | GW | OV | protective, tense | rocks scatter on the road
+800 | !A photoreal historical recreation of the 1914 Sakurajima eruption with a colossal ash column over Kagoshima Bay, Japan | LL | ST | historic, catastrophic | the column rises into the sky
+801 | Massive lava flows pouring into the sea | AO | GL | catastrophic, powerful | lava steams as it meets water
+802 | Lava filling a strait between island and mainland | AH | GL | transformative, powerful | lava spreads across the water
+803 | The land bridge connecting the volcano to the mainland | AH | SB | geological, surprising | a road crosses the old lava
+804 | !A photoreal historical recreation of residents evacuating by boat from Sakurajima, Japan, in 1914 | GW | ST | urgent, historic | boats leave the shore
+805 | Empty abandoned houses on the volcanic slopes | GW | OV | abandoned, quiet | ash drifts through doorways
+806 | Families returning to rebuild their homes | GW | GH | resilient, hopeful | they unload belongings
+807 | Rich orchards growing on volcanic soil | AO | GH | fertile, rewarding | trees sway in the breeze
+808 | Steam rising from a hot spring with the volcano behind | GW | GH | peaceful, rewarding | bathers relax in the spring
+809 | The volcano erupting again at dusk over the bay | LL | DU | ominous, restless | ash rises into the twilight
+
+@ 30. MOUNT NYIRAGONGO — Democratic Republic of the Congo | Mount Nyiragongo in the eastern Democratic Republic of the Congo, a towering stratovolcano with a churning lava lake in its summit crater, looming over the city of Goma and Lake Kivu
+810 | The green volcanic landscape of eastern Congo | AH | SB | dramatic, ominous | clouds drift over the hills
+811 | The volcano rising above the city of Goma | LL | DU | looming, menacing | a glow rises from the crater
+812 | The towering volcano with steam rising | AO | ST | iconic, menacing | steam drifts from the summit
+813 | The vast summit crater of the volcano | AO | GL | dramatic, intense | steam swirls inside the crater
+814 | A huge lava lake glowing inside the crater | TD | GL | awe, terrifying | lava churns in the lake
+815 | A churning red lava lake at night | AO | GL | mesmerizing, terrifying | lava bubbles and glows
+816 | Lava surface cracking and bubbling like a living skin | CU | GL | alive, intense | molten rock splits apart
+817 | A slow lava flow creeping forward | CU | GL | calm, contrasting | the lava inches forward
+818 | People watching a slow lava flow from a safe distance | GW | GL | calm, contrasting | they stand back
+819 | A fast lava river rushing downhill | AO | GL | sudden, terrifying | lava races down the slope
+820 | Close-up of runny fluid lava flowing like water | CU | GL | fluid, dangerous | lava splashes like liquid
+821 | !A photoreal historical recreation of the 1977 eruption of Mount Nyiragongo, Congo, with lava racing down its flank | AO | GL | historic, dramatic | lava surges downhill
+822 | Lava racing downhill at high speed | AO | GL | terrifying, fast | lava overtakes everything
+823 | A fast lava flow cutting through forest | AO | GL | unstoppable, terrifying | trees ignite in its path
+824 | A fast lava river glowing at night | LL | GL | record, intense | lava pours downhill
+825 | The volcano erupting in 2002 with fountains of lava | LL | GL | catastrophic, sudden | lava fountains rise
+826 | Lava flowing through city streets | AO | GL | catastrophic, devastating | lava pours past houses
+827 | Lava crossing an airport runway | AO | GL | surreal, catastrophic | lava spreads across the tarmac
+828 | Crowds fleeing along a road toward a border | AH | OV | desperate, massive | people stream along the road
+829 | Residents returning to a city covered in black rock | GW | OV | devastated, somber | they walk over the hardened lava
+830 | Houses buried under black hardened lava | AO | OV | devastating, haunting | steam rises from the rock
+831 | Buildings constructed on top of black lava rock | GW | GH | resilient, determined | workers build walls
+832 | The busy city of Goma with the volcano behind | AH | GH | bustling, resilient | traffic moves through the city
+833 | Houses built on black lava foundations | GW | GH | resilient, uneasy | children walk over the black rock
+834 | The volcano erupting in 2021 at night | LL | GL | terrifying, recurring | lava pours from the flank
+835 | A river of lava flowing toward the city | AH | GL | ominous, terrifying | lava creeps toward the lights
+836 | Lava stopping at the edge of town | GW | GL | relieved, tense | lava cools at the road
+837 | The volcano glowing at night above the city | LL | NT | ominous, unresolved | the crater glows red
+
+@ 31. ANAK KRAKATAU — Indonesia | Anak Krakatau in the Sunda Strait between Java and Sumatra in Indonesia, a young black volcanic island rising from a drowned caldera in turquoise and dark-blue sea
+838 | The Sunda Strait between two large islands | AH | SB | vast, ominous | boats cross the strait
+839 | A volcanic island rising from the sea | AO | SB | striking, ominous | steam rises from the island
+840 | The island in the middle of an ancient caldera | AH | SB | historic, ominous | the camera reveals the caldera rim
+841 | !A photoreal historical recreation of the 1883 Krakatoa eruption in the Sunda Strait, Indonesia, with a colossal ash column | LL | ST | historic, catastrophic | ash erupts into the sky
+842 | A colossal eruption blasting into the sky | LL | GL | catastrophic, explosive | the explosion rips upward
+843 | A shockwave spreading across the ocean | AH | ST | immense, terrifying | the wave races outward
+844 | A towering ash column over the sea | LL | ST | historic, overwhelming | ash billows upward
+845 | Tsunami waves striking a tropical coast | AO | ST | devastating, violent | waves crash over the shore
+846 | Ruins of a coastal village after a tsunami | AO | OV | tragic, somber | debris lies scattered
+847 | Empty sea where an island once stood | AH | OV | haunting, stark | waves roll across the empty water
+848 | !A photoreal historical recreation of smoke rising from the sea inside the drowned Krakatoa caldera, Indonesia, in 1927 | LL | OV | mysterious, historic | smoke billows from the water
+849 | A new volcano emerging from the sea | AO | GL | new, dramatic | steam and ash rise from the water
+850 | The young volcanic island growing in the caldera | AH | SB | iconic, alive | steam drifts from the cone
+851 | Eruptions building the island | LL | GL | dynamic, growing | ash bursts from the crater
+852 | The island growing taller over time | AH | SB | growing, persistent | the cone rises
+853 | Scientists on a boat watching the volcano | EL | SB | vigilant, curious | they study the island
+854 | Tourists photographing the volcano from a boat | EL | SB | curious, thrilled | cameras point at the island
+855 | Fishermen working near the volcanic island | LL | GH | routine, risky | nets are cast into the sea
+856 | The volcano erupting at night with glowing lava | LL | GL | ominous, sudden | lava glows on the slopes
+857 | Part of the volcano collapsing into the sea | LL | GL | catastrophic, sudden | the flank slides into the water
+858 | Dark sea at night with a faint glow | LL | NT | eerie, ominous | the water is calm before the wave
+859 | A wall of water spreading outward | AH | NT | terrifying, powerful | the wave races across the sea
+860 | Waves crashing onto dark beaches | GW | NT | terrifying, tragic | water surges ashore
+861 | Debris-strewn beaches and damaged hotels after the tsunami | AO | OV | tragic, devastating | debris scattered across the sand
+862 | A memorial on a coastal beach | GW | OV | mournful, respectful | waves wash the shore
+863 | The volcano dramatically shorter after the collapse | AO | OV | shocking, stark | steam rises from the lower cone
+864 | The collapsed volcano with a flooded crater | AO | OV | stark, surreal | waves wash into the crater
+865 | The volcano erupting and rebuilding | LL | GL | resilient, ominous | ash bursts upward
+866 | The young volcano growing again at sunset | AO | GH | ominous, cyclical | steam drifts from the summit

@@ -1,0 +1,248 @@
+@ 15. OYMYAKON — Russia | Oymyakon in northeastern Siberia, Russia, a remote frozen village of wooden houses, smoking chimneys and ice-fogged streets in a snow-covered valley at minus fifty degrees
+410 | !A split transition from a scorching desert dune landscape to a snow-covered Siberian village in ice fog | AH | SN | dramatic, contrasting | heat haze dissolves into falling ice crystals
+411 | Vast snow-covered taiga and frozen rivers stretching to the horizon | AH | SN | remote, frozen | the drone glides over the white wilderness
+412 | Small wooden houses with smoking chimneys in a frozen valley | AO | SN | isolated, enduring | chimney smoke rises straight up
+413 | The village wrapped in thick ice fog under a pale sun | AH | DW | brutal, extreme | ice fog hangs over the rooftops
+414 | A village sign covered in frost at the edge of town | GW | SN | iconic, frozen | ice crystals glitter in the air
+415 | !A photoreal historical recreation of a 1930s weather station in deep snow at Oymyakon, Siberia | GW | OV | historic, extreme | snow drifts past the station
+416 | A frost-covered thermometer outside a wooden house showing extreme cold | CU | SN | alarming, record | frost grows across the glass
+417 | A frozen street with residents bundled in thick fur clothing | GW | SN | normal, harsh | people walk through the ice fog
+418 | A resident's face wrapped in fur with frost forming on exposed cheeks | CU | SN | painful, extreme | frost spreads across skin
+419 | Eyelashes coated in white frost and breath turning to ice crystals | CU | SN | brutal, beautiful | breath freezes and drifts down
+420 | A row of cars idling in the snow with exhaust clouds rising | GW | SN | resourceful, harsh | exhaust plumes hang in the air
+421 | A frozen car engine coated in ice under an open hood | CU | SN | brittle, frozen | frost creeps across the metal
+422 | A car buried in snow beside a wooden garage | GW | SN | stranded, frozen | snow falls on the car
+423 | Frozen fuel and cracked metal parts on a workbench | CU | SN | brittle, harsh | ice crystals glint on metal
+424 | A wooden house with a woodpile stacked high outside | GW | SN | resourceful, enduring | smoke drifts from the chimney
+425 | A coal stove glowing inside a small wooden home | EL | GL | warm, essential | flames flicker in the stove
+426 | A wooden outdoor toilet standing in deep snow | GW | SN | harsh, humorous | snow blows past the outhouse
+427 | Frozen ground too hard for pipes beside a house | CU | SN | harsh, primitive | frost covers the soil
+428 | Permafrost layers exposed in a frozen riverbank | CU | SN | ancient, unyielding | ice crystals glitter in the soil
+429 | A small snow-covered cemetery on a hillside | GW | OV | somber, quiet | snow falls on the graves
+430 | A small fire burning on frozen ground in a snowy cemetery | GW | GL | somber, laborious | smoke rises from the fire
+431 | Workers digging into thawed ground beside a fire | EL | GL | grim, laborious | a shovel cuts into the thawed earth
+432 | The Kolyma Highway winding through snowy mountains | AH | SN | lonely, endless | a single truck crawls along the road
+433 | !Old Soviet-era Gulag labor camp ruins with collapsed wooden barracks in snow beside the Kolyma Highway, Siberia | GW | OV | haunting, grim | wind blows snow through the ruins
+434 | Rows of weathered wooden grave markers beside a snowy road | GW | OV | mournful, grim | snow drifts over the markers
+435 | A truck driving along the icy highway through a desolate valley | LL | DU | haunting, lonely | headlights cut through the dusk
+436 | Children in fur coats walking to a small school through ice fog | GW | SN | resilient, hardy | they walk past frozen trees
+437 | An empty schoolyard covered in snow and fog | GW | SN | quiet, humorous | snow settles on the playground
+
+@ 16. MOUNT WASHINGTON — New Hampshire, United States | Mount Washington in New Hampshire, a rocky windswept summit of the Presidential Range with rime ice, boulders and a weather observatory, above forests of the northeastern United States
+438 | A snow-blasted summit in a wild winter storm | AO | ST | violent, surprising | wind whips snow across the rocks
+439 | Forested mountains of New England stretching into the distance | AH | GH | familiar, deceptive | autumn colors cover the hills
+440 | The modest rocky summit rising above the forests | AH | SB | deceptive, ordinary | clouds drift over the peak
+441 | Storm clouds swirling around the summit | AO | ST | violent, dramatic | clouds race over the ridge
+442 | The summit with its observatory buildings on a clear day | AO | SB | iconic, calm | the drone circles the summit
+443 | Storm clouds converging over the mountain from different directions | AH | ST | converging, ominous | clouds sweep in
+444 | Weather systems moving across the northeastern United States | AH | ST | massive, building | clouds swirl across the landscape
+445 | Clouds funneling toward the peak | AO | ST | intense, converging | clouds pour over the ridges
+446 | !A photoreal historical recreation of the 1930s wooden summit weather observatory on Mount Washington, New Hampshire, encased in rime ice | GW | OV | historic, extreme | snow blows past the building
+447 | An old wind instrument spinning furiously on the summit | CU | ST | intense, record | the anemometer whirls
+448 | Snow and ice blasting horizontally across the summit | GW | ST | violent, extreme | wind rips across the rocks
+449 | The summit cloaked in fog and wind | AO | FG | enduring, legendary | fog streams past the rocks
+450 | A gust of wind tearing snow off the summit ridge | LL | ST | record-breaking, violent | snow plumes off the ridge
+451 | Hurricane-force wind bending everything on the summit | GW | ST | violent, relentless | debris flies past the camera
+452 | The summit repeatedly blasted by storms across a year | AO | ST | relentless, harsh | storms roll over the peak
+453 | Rime ice growing sideways on rocks and signs | CU | SN | strange, beautiful | ice feathers build outward
+454 | Feather-like rime ice formations on a summit sign | CU | SN | delicate, extreme | wind adds new layers of ice
+455 | The summit weather station resembling a concrete bunker | LO | ST | rugged, defensive | snow blasts against the walls
+456 | Thick chains anchoring buildings to the rock | CU | ST | rugged, extreme | the chains hold firm in the wind
+457 | A gentle hiking trail on a sunny day leading up the mountain | GW | SB | deceptive, inviting | hikers walk along the trail
+458 | Hikers starting out from the base in sunshine | GW | SB | carefree, unaware | they set off up the trail
+459 | The summit suddenly swallowed by white fog | AO | FG | sudden, alarming | whiteout engulfs the peak
+460 | A hiker barely visible in whiteout conditions | GW | FG | disoriented, dangerous | snow blows across the trail
+461 | A hiker bracing against fierce wind on the summit | EL | ST | perilous, struggling | the hiker leans into the gale
+462 | Old stone cairns marking trails across the rocky summit | GW | OV | historic, somber | fog drifts over the cairns
+463 | Memorial plaques along the trail | CU | OV | somber, sobering | wind blows over the markers
+464 | A wooden warning sign at the trailhead | CU | OV | stark, serious | the sign stands in the wind
+465 | Close-up of the warning sign text area on the trail | CU | ST | blunt, warning | snow blows across the sign
+466 | The mountain summit in a storm with a lone figure retreating | LL | ST | sobering, final | the figure disappears into fog
+
+@ 17. CATATUMBO LIGHTNING — Venezuela | The Catatumbo River delta at Lake Maracaibo in northwestern Venezuela, vast dark lake waters, wetlands and stilt villages beneath towering thunderclouds lit by constant lightning
+467 | Towering storm clouds over a dark lake | AH | ST | ominous, electric | lightning flickers inside the clouds
+468 | The river flowing into the wide lake | AH | DU | wild, vast | the river meets the lake
+469 | The river mouth seen from above at dusk | AO | DU | foreboding, quiet | clouds gather overhead
+470 | The night sky illuminated by repeated lightning flashes | GW | NT | electric, awe | lightning flashes light the sky
+471 | Spectacular branching lightning over the lake | LL | NT | spectacular, iconic | bolts strike across the sky
+472 | Lightning storms on many nights across a calendar of seasons | AH | NT | relentless, cyclical | storms build after sunset
+473 | Hours of continuous lightning flashing over the water | LL | NT | relentless, awe | flash after flash lights the clouds
+474 | Warm humid air rising off the lake as mist | AO | DU | building, scientific | vapor rises from the water
+475 | Cold air rushing down from the Andes mountains | AH | DU | building, powerful | clouds pour off the mountains
+476 | Towering cumulonimbus clouds forming over the lake | AH | DU | massive, building | clouds grow taller
+477 | Storm clouds forming over the same spot night after night | AH | NT | predictable, eerie | clouds swirl in place
+478 | Dense lightning strikes across the sky | LL | NT | record-breaking, intense | bolts strike repeatedly
+479 | A map-like aerial view of the lake with lightning concentrated over one area | AH | NT | scientific, astonishing | flashes cluster over the river mouth
+480 | The storm at its peak with continuous flashes | LL | NT | intense, overwhelming | lightning fills the sky
+481 | Lightning flashing rapidly in multiple places | LL | NT | frenetic, awe | bolts flicker across the clouds
+482 | Silent lightning flashing on the horizon over calm water | LL | NT | eerie, silent | the water reflects the flashes
+483 | Distant storms flashing far across the lake | LL | NT | distant, mysterious | flashes glow on the horizon
+484 | A calm lake surface reflecting distant silent lightning | GW | NT | eerie, quiet | ripples catch the flashes
+485 | !A photoreal historical recreation of an old sailing ship on Lake Maracaibo, Venezuela, guided by distant Catatumbo lightning | LL | NT | historic, guiding | the ship sails toward the flashes
+486 | Lightning illuminating the lake like a lighthouse beam | LL | NT | legendary, guiding | flashes light the horizon
+487 | Stilt villages on the lake beneath lightning | AO | NT | vulnerable, eerie | lightning reveals the houses
+488 | Wooden houses on stilts over the water | AO | DU | fragile, resilient | boats rock beside the houses
+489 | Wooden houses and open boats moored on stilts | GW | DU | simple, vulnerable | water laps against the stilts
+490 | Fishing nets drying on poles in the wind | CU | DU | everyday, fragile | nets sway in the breeze
+491 | Lightning striking near stilt houses with nowhere to shelter | LL | NT | vulnerable, tense | bolts light up the village
+492 | A fisherman studying the darkening sky from a boat | EL | DU | wise, watchful | he looks toward the clouds
+493 | Fishermen rowing back to the stilt village before the storm | LL | DU | urgent, practiced | boats head for the houses
+494 | Families sheltering inside a stilt house as lightning flashes outside | EL | NT | patient, safe | light flickers through the windows
+495 | Storm clouds building again over the lake at dusk | AH | DU | cyclical, relentless | clouds rise once more
+496 | Endless lightning illuminating the lake at night | AH | NT | awe, infinite | the camera rises above the flashing storm
+
+@ 18. SALTSTRAUMEN — Norway | Saltstraumen near Bodø in northern Norway, a narrow tidal strait between rocky green shores where the strongest tidal current on Earth churns turquoise and dark water into whirlpools beneath a bridge
+497 | Turbulent water churning along a rugged Norwegian coastline | AO | OV | restless, powerful | currents swirl along the shore
+498 | Violent water clashing in the narrow channel | LA | OV | aggressive, intense | waves collide and twist
+499 | The town of Bodø with mountains and sea in the background | AH | GH | quiet, northern | boats move in the harbor
+500 | A narrow channel linking a wide fjord to the open sea | AH | OV | geographical, ominous | water moves through the strait
+501 | The tide changing as currents begin to accelerate | AO | OV | building, tense | the water begins to move faster
+502 | A massive volume of seawater surging toward the strait | AH | OV | powerful, relentless | water pours toward the gap
+503 | The water squeezing through the narrow strait beneath a bridge | AO | OV | constricted, violent | currents surge under the bridge
+504 | Wide view of the strait with whirlpools forming | AH | OV | iconic, dramatic | whirlpools spin in the current
+505 | The current tearing through the strait at full force | AO | OV | record, powerful | white water churns
+506 | Fast-moving water racing past rocks | LA | OV | fast, dangerous | the drone races with the current
+507 | The water surface twisting and bulging | CU | OV | chaotic, alive | the surface splits apart
+508 | Whirlpools beginning to form in the current | TD | OV | ominous, mesmerizing | water spirals downward
+509 | A deep spinning whirlpool funnel in dark water | TD | OV | terrifying, hypnotic | the vortex spins
+510 | Whirlpools appearing and vanishing across the strait | AH | OV | chaotic, fleeting | vortices form and dissolve
+511 | Driftwood sucked into a whirlpool | CU | OV | dangerous, violent | the wood spirals under
+512 | A small boat spinning in turbulent water | AO | OV | dangerous, tense | the boat struggles in the current
+513 | Traditional fishing boats moored on the rocky shore | GW | GH | timeless, enduring | boats rock gently
+514 | Fishermen waiting on the rocks for the tide | EL | GH | patient, experienced | they watch the water
+515 | The strait suddenly calm during slack tide | AO | GH | calm, fleeting | the water stills
+516 | Turbulent water stirring nutrients | UW | UL | dynamic, rich | particles swirl in the water
+517 | Schools of fish swirling in the strait | UW | UL | abundant, dynamic | fish flash in the current
+518 | Fishing boats beside churning whirlpools | AO | OV | risky, rewarding | boats hover near the danger
+519 | The current accelerating again as the tide turns | AO | OV | urgent, ominous | the water begins to churn
+520 | Whirlpools forming again across the strait | AH | DU | relentless, cyclical | the camera rises over the vortexes
+
+@ 19. THE DRAKE PASSAGE AND CAPE HORN — South America and Antarctica | Cape Horn and the Drake Passage at the southern tip of South America, black sea cliffs, storm-lashed islands and enormous grey Southern Ocean waves
+521 | The southern tip of South America seen from high above | AH | ST | remote, wild | clouds race over the islands
+522 | Fragmented islands ending in a black cliff | AO | ST | dramatic, final | waves crash against the cliff
+523 | The black cliff of Cape Horn rising from the sea | LL | ST | iconic, ominous | spray bursts against the rocks
+524 | The open sea stretching beyond the cape | AH | ST | vast, foreboding | waves roll endlessly
+525 | Open ocean between two continents | AH | ST | vast, empty | swells move across the sea
+526 | Massive swells between South America and Antarctica | AO | ST | vast, powerful | waves rise and fall
+527 | Wind tearing spray off wave crests | LA | ST | relentless, wild | spray flies across the water
+528 | !Earth seen from space over the Southern Ocean with no land around Antarctica | SP | SB | global, vast | clouds swirl around the globe
+529 | Open ocean with no land in sight | AH | ST | endless, isolated | waves stretch to the horizon
+530 | Strong westerly winds blowing across the sea | LA | ST | relentless, powerful | wind whips the surface
+531 | Huge swells marching toward the camera | LA | ST | relentless, building | the swells roll in
+532 | A ship climbing a ten-meter wave | LL | ST | terrifying, intense | the bow rises into the sky
+533 | A towering rogue wave rising above a ship | LL | ST | terrifying, epic | the wave crests over the ship
+534 | !A photoreal historical recreation of a tall sailing ship in heavy seas off the black cliffs of Cape Horn | LL | ST | historic, perilous | the ship heels in the waves
+535 | Ships sailing from one ocean to another | AH | ST | historic, vast | a ship rounds the cape
+536 | !A photoreal historical recreation of a square-rigged sailing ship heading west into storm clouds off Cape Horn | LL | ST | historic, determined | sails strain in the wind
+537 | A ship rounding Cape Horn | AO | ST | dangerous, historic | waves batter the hull
+538 | Shipwreck debris on a rocky shore | GW | OV | tragic, sobering | waves wash over the wreckage
+539 | A snapped wooden mast and torn sails | CU | ST | violent, tragic | wind tears the canvas
+540 | Icy grey waves crashing over a ship's deck | EL | ST | terrifying, freezing | water sweeps across the deck
+541 | Cape Horn with stormy seas and scattered wreckage | AH | ST | haunting, grim | waves crash on the rocks
+542 | A memorial albatross sculpture on Cape Horn overlooking the sea | LO | ST | mournful, iconic | wind sweeps past the sculpture
+543 | Dark water above an unseen seabed of wrecks | UW | DK | haunting, somber | particles drift in the darkness
+544 | An expedition ship heading toward Antarctica | AO | OV | adventurous, determined | the ship cuts through waves
+545 | Passengers holding railings as the ship pitches in heavy seas | EL | ST | tense, thrilling | spray hits the windows
+546 | The Drake Passage unusually calm and glassy | AO | GH | peaceful, rare | the ship glides on smooth water
+547 | A calm sea reflecting a soft sky | LA | GH | serene, surprising | the water barely moves
+548 | A ship pitching violently in stormy seas | LL | ST | chaotic, humorous | the bow slams into a wave
+
+@ 20. SABLE ISLAND — Canada | Sable Island, a thin crescent of sand dunes and grass 300 km off Nova Scotia, Canada, wrapped in North Atlantic fog with long empty beaches and wild horses
+549 | Thick fog covering the North Atlantic | AO | FG | eerie, hidden | fog drifts over the water
+550 | The island far out in the open ocean | AH | FG | remote, mysterious | the drone flies through fog
+551 | A thin crescent of sand curving across the sea | AH | OV | fragile, striking | waves wash along the shore
+552 | Wide view of the island with dunes and grass | AH | GH | iconic, wild | wind moves through the grass
+553 | Flat dunes with no trees or rocks | GW | OV | bare, exposed | sand blows across the dunes
+554 | Long empty beaches stretching to the horizon | AO | OV | desolate, beautiful | waves roll onto the sand
+555 | A faint low island barely visible from a ship's deck | LL | FG | invisible, dangerous | fog drifts over the island
+556 | The pale island wrapped in fog | AO | FG | ghostly, hidden | the fog thickens
+557 | Shallow sandbars beneath the surface | TD | SB | hidden, dangerous | waves break over the bars
+558 | Currents colliding near the island | AH | OV | turbulent, dangerous | water swirls together
+559 | A storm sweeping across the island | AO | ST | violent, sudden | rain lashes the dunes
+560 | Rusting wreck remains on the beach | GW | FG | haunting, tragic | waves wash over the wreck
+561 | Wreck timbers scattered across the sand | AO | FG | haunting, historic | fog drifts over the timbers
+562 | Wind reshaping the dunes | CU | OV | restless, shifting | sand streams over the crest
+563 | A wreck half buried in sand | GW | OV | cyclical, haunting | sand blows over the hull
+564 | Wild horses running across the dunes | LL | GH | free, majestic | the herd gallops
+565 | A herd of wild horses grazing on grass | AO | GH | peaceful, wild | horses graze in the wind
+566 | A wild horse with a windswept mane | CU | GH | proud, untamed | its mane blows in the wind
+567 | Wild horses standing on dunes at sunset | LL | GH | resilient, timeless | horses silhouetted against the sky
+568 | A national park sign on the island | GW | OV | protected, official | wind blows past the sign
+569 | A small research station among the dunes | AO | OV | isolated, quiet | smoke drifts from a chimney
+570 | Researchers walking across the dunes with equipment | GW | OV | dedicated, isolated | they walk toward the beach
+571 | A small plane waiting on the beach as fog lifts | GW | FG | uncertain, hopeful | fog parts over the sand
+572 | Fog closing in over the island | AO | FG | eerie, final | the island disappears
+
+@ 21. THE BLUE HOLE — Dahab, Egypt | The Blue Hole of Dahab on Egypt's Red Sea coast, a perfect circular deep-blue sinkhole in a turquoise coral reef beside desert mountains
+573 | The Red Sea coastline with desert mountains | AH | SB | striking, warm | the drone flies along the coast
+574 | The reef edge a few steps from shore | GW | SB | inviting, deceptive | waves lap the reef
+575 | The turquoise reef dropping suddenly into deep blue | TD | SB | dramatic, ominous | the camera hovers over the drop-off
+576 | The perfect circle of the Blue Hole from above | TD | SB | iconic, mesmerizing | the camera rotates above the hole
+577 | Calm deep-blue water within the circle | AO | SB | serene, deceptive | gentle ripples cross the surface
+578 | Bright tropical fish and coral at the edge | UW | UL | vibrant, beautiful | fish dart around the coral
+579 | Divers gathering at the shoreline with tanks | GW | SB | excited, popular | divers enter the water
+580 | Divers silhouetted above the deep blue void | UW | UL | ominous, tense | the divers hang above the abyss
+581 | The hole plunging into darkness | UW | UL | dizzying, ominous | light fades into the deep
+582 | A diver descending toward great depth | UW | UL | tense, risky | bubbles rise above the diver
+583 | The underwater arch opening to the open sea | UW | UL | mysterious, alluring | light pours through the arch
+584 | The arch framed in dim blue light | UW | UL | ominous, tempting | particles drift in the light
+585 | Light streaming through the arch from inside the hole | UW | UL | alluring, deceptive | beams shimmer through the opening
+586 | A diver looking toward the arch with depth distortion | UW | UL | deceptive, tense | the arch seems close
+587 | A diver swimming toward the arch | UW | UL | tense, doomed | the diver kicks forward
+588 | A diver's face mask with a calm, dazed expression | CU | UL | dangerous, eerie | bubbles rise from the regulator
+589 | A diver floating calmly at depth | UW | UL | deceptive, eerie | the diver hangs motionless
+590 | A pressure gauge needle dropping toward empty | CU | UL | alarming, tense | the needle slides down
+591 | A lone diver silhouette sinking into deep blue | UW | DK | tragic, haunting | the figure fades into darkness
+592 | Memorial plaques on rocks above the water | GW | GH | mournful, sobering | waves splash against the rocks
+593 | Rows of memorial plaques on the cliff | CU | GH | somber, sobering | sunlight falls on the names
+594 | Plaques with names carved into stone | CU | GH | mournful, respectful | the camera slides along the plaques
+595 | Divers entering the water from shore | GW | SB | ongoing, cautious | divers wade into the water
+596 | Divers exploring the reef near the surface | UW | UL | peaceful, safe | divers drift above the coral
+597 | The deep blue void below divers | UW | DK | ominous, endless | the camera tilts down into darkness
+
+@ 22. THE CHALLENGER DEEP — Pacific Ocean | The Challenger Deep at the southern end of the Mariana Trench in the western Pacific Ocean, the deepest place on Earth, pitch-black water nearly eleven kilometers down above a silty seafloor
+598 | !A dark vertical ocean abyss plunging out of sight | UW | DK | awe, ominous | the camera sinks into darkness
+599 | !The western Pacific Ocean near Guam with deep blue water and a small island | AH | SB | vast, deceptive | the drone flies over open ocean
+600 | !A cutaway view of the Mariana Trench plunging into the ocean floor | AO | DK | immense, scientific | the trench drops away
+601 | The deepest point of the trench far below | UW | DK | ultimate, mysterious | the camera descends
+602 | A depth gauge reading nearly eleven thousand meters | CU | DK | extreme, record | the numbers climb
+603 | !Mount Everest placed inside a deep ocean trench in a scale comparison visualization | AO | DK | astonishing, scientific | the mountain sinks into the trench
+604 | !The summit of a giant mountain far below the ocean surface | UW | DK | astonishing, sobering | water fills above the peak
+605 | A crushed metal canister on the seafloor | CU | DK | crushing, intense | sediment drifts around it
+606 | Thick steel walls of a deep-sea submersible straining under pressure | CU | DK | crushing, tense | the hull creaks
+607 | !A large truck compressed into a tiny space as a pressure visualization | CU | OV | crushing, surreal | metal crumples inward
+608 | Pressure visualized as a heavy force pressing on the seafloor | UW | DK | heavy, oppressive | sediment presses flat
+609 | Total darkness with no sunlight | UW | DK | black, isolating | faint particles drift
+610 | Frigid water near freezing at the bottom | UW | DK | cold, alien | particles float slowly
+611 | A crushed vessel shape on the dark seafloor | UW | DK | deadly, grim | sediment settles over it
+612 | !A photoreal historical recreation of a 1960s naval ship lowering the steel bathyscaphe Trieste into the Pacific above the Mariana Trench | LL | SB | historic, brave | waves rock the ship
+613 | The Trieste bathyscaphe descending into dark water | UW | DK | historic, daring | lights glow from the vessel
+614 | The interior of a small steel sphere with two men inside | EL | DK | tense, claustrophobic | the men freeze at a sound
+615 | A cracked window on a submersible | CU | DK | alarming, tense | a fracture spreads in the glass
+616 | The bathyscaphe continuing its descent into darkness | UW | DK | determined, brave | bubbles rise above the vessel
+617 | The bathyscaphe resting on the silty seafloor | UW | DK | triumphant, eerie | sediment swirls around it
+618 | Lights illuminating the deepest seafloor | UW | DK | historic, awe | particles drift in the lights
+619 | An empty dark trench with no vessels | UW | DK | lonely, untouched | silence fills the dark water
+620 | !An astronaut footprint on the Moon's surface | CU | SB | contrasting, iconic | dust lies still
+621 | The dark seafloor of the deepest trench | UW | DK | remote, untouched | a light beam sweeps across the mud
+622 | Faint movement in the dark water | UW | DK | surprising, hopeful | a small creature drifts past
+623 | Pale amphipods scavenging on the seafloor | CU | DK | alien, resilient | the creatures crawl across the mud
+624 | Delicate single-celled organisms with intricate shells in mud | CU | DK | delicate, alien | particles settle around them
+625 | Tiny creatures surviving under crushing pressure | UW | DK | resilient, awe | the creatures move slowly
+
+@ 23. VERYOVKINA CAVE — Abkhazia, Georgia | Veryovkina Cave in the Arabika Massif of Abkhazia, Georgia, the deepest known cave on Earth, with vertical limestone shafts, narrow cracks and freezing underground pools in total darkness
+626 | !A deep ocean abyss fading into darkness | UW | DK | transitional, deep | the camera sinks into black water
+627 | Limestone mountains above the Black Sea | AH | GH | transitional, mysterious | clouds drift over the peaks
+628 | The rugged Arabika Massif rising above the Black Sea coast | AH | GH | wild, remote | the drone glides over the peaks
+629 | A narrow cave opening in limestone rocks | GW | OV | ominous, inviting | mist drifts from the entrance
+630 | Cavers descending into the cave entrance on ropes | LO | DK | daring, intense | headlamps flicker in the darkness
+631 | A vertical shaft dropping into darkness | TD | DK | dizzying, extreme | a caver descends the rope
+632 | Ropes hanging into a bottomless cave shaft | LO | DK | extreme, terrifying | the rope sways in the void
+633 | !A visualization of skyscrapers stacked inside a mountain to show cave depth | AO | DK | astonishing, scientific | the buildings descend into the earth
+634 | Cavers resting on a ledge after days of descent | EL | DK | exhausted, determined | steam rises from their breath
+635 | Cavers rappelling down a vast vertical shaft | LO | DK | daring, intense | the rope runs through a descender
+636 | A caver squeezing through a tight crack | CU | DK | claustrophobic, tense | the caver pushes forward
+637 | A caver swimming through a freezing underground pool | EL | DK | cold, intense | headlamp light ripples on the water
+638 | A small underground camp with tents on a rock ledge | EL | DK | isolated, determined | headlamps glow inside tents
+639 | Tents pitched on narrow ledges deep underground | AO | DK | precarious, eerie | a caver unzips a tent
+640 | A small camping stove glowing in a dark cave chamber | CU | DK | cozy, isolated | steam rises from the pot

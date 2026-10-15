@@ -1,0 +1,242 @@
+@ 7. ILHA DA QUEIMADA GRANDE — Brazil | Ilha da Queimada Grande, Snake Island, a small rugged island of green Atlantic forest and bare granite cliffs rising from the deep blue ocean 33 km off the coast of São Paulo, Brazil, with a white lighthouse on its summit
+183 | !A wide aerial seascape of the deep blue Atlantic off São Paulo, Brazil, with the lone rocky island of Ilha da Queimada Grande on the horizon | AH | SB | ominous, curious | the drone glides over open water toward the island
+184 | !Calm turquoise Atlantic water lapping against dark granite rocks of Snake Island, Brazil, giving way to dense forest beyond | LA | SB | shifting, foreboding | waves wash over the rocks
+185 | Dense green forest seen from just above the canopy, something hidden inside | LA | OV | lurking, tense | leaves stir in the wind
+186 | The island seen from far out at sea with the mainland coast faint on the horizon | AH | SB | isolated, remote | the drone approaches from the ocean
+187 | The island rising steeply from the sea, waves crashing at its base | AO | SB | wild, forbidding | surf explodes against the cliffs
+188 | Green forest clinging to bare grey granite slopes | AO | GH | wild, untouched | wind ripples through the treetops
+189 | A white lighthouse standing alone on the island summit above the forest | PI | GH | lonely, eerie | the camera pushes slowly toward the lighthouse
+190 | The full island from above, surrounded by blue water | TD | SB | isolated, iconic | the camera rotates above the island
+191 | The island under dark storm clouds, looking menacing | AO | ST | ominous, foreboding | clouds roll over the summit
+192 | A golden lancehead viper coiled on a mossy branch, the ocean visible through the trees | CU | SB | menacing, intense | the snake's tongue flicks
+193 | A golden lancehead viper with yellow-gold scales resting among leaves | CU | SB | deadly, beautiful | the snake raises its head slowly
+194 | A golden lancehead stretched along a branch in dappled forest light | CU | BL | rare, dangerous | sunlight glints on its scales
+195 | Rising seawater separating the island from a distant coastline in a prehistoric landscape | AH | GH | ancient, isolating | the sea floods the land bridge
+196 | The narrow channel of ocean between the island and the Brazilian mainland | AH | SB | isolating, vast | waves cross the channel
+197 | Empty forest floor with no rodents or ground animals, only leaf litter and roots | GW | OV | barren, tense | a leaf falls to the empty floor
+198 | A golden lancehead slowly climbing a tree trunk | CU | OV | adaptive, determined | the snake coils upward
+199 | A golden lancehead in the branches watching a small migrating songbird | CU | SB | predatory, tense | the bird hops closer
+200 | A golden lancehead striking with open mouth and fangs extended | CU | SB | lethal, fast | the snake lunges forward
+201 | A small bird perched on a branch just above a coiled viper | CU | SB | doomed, tense | the bird pauses unaware
+202 | Flocks of migrating birds passing over the forested island | AO | GH | fleeting, fatal | birds descend into the treetops
+203 | Several golden lanceheads draped across branches in the same tree | CU | OV | overwhelming, unnerving | snakes shift slowly among the leaves
+204 | The whole small island seen from above, tiny against the ocean | AH | SB | crowded, sobering | the camera rises to show its size
+205 | The weathered white lighthouse and an abandoned keeper's house in the forest | GW | OV | haunting, mysterious | wind rattles the shutters
+206 | An old window frame overgrown with vines with a snake coiled on the sill | CU | DU | eerie, chilling | the snake slides over the sill
+207 | The empty lighthouse door half open, forest creeping in | GW | OV | mysterious, uncertain | the door creaks in the wind
+208 | The forest path toward the lighthouse, completely empty | GW | FG | uneasy, forbidding | mist drifts along the path
+209 | A Brazilian Navy patrol boat circling offshore near the island | LL | SB | official, restrictive | the patrol boat cruises past
+210 | Scientists in snake-proof gaiters with tongs and a medical kit stepping ashore from a small boat | EL | SB | careful, tense | a researcher steps onto the rocks
+211 | The automated lighthouse lamp glowing at dusk with no one around | LO | DU | lonely, quiet | the beam sweeps across the sea
+212 | The island silhouetted at sunset with the lighthouse beam turning | AO | DU | forbidding, final | the light sweeps over the dark ocean
+
+@ 8. NORTH SENTINEL ISLAND — India | North Sentinel Island in India's Andaman Islands, a flat island of dense tropical forest ringed by white sand beaches and a coral reef in the Bay of Bengal, seen only from a respectful distance
+213 | !The vast turquoise Bay of Bengal with scattered green islands | AH | SB | remote, calm | the drone flies over open ocean
+214 | The island seen from far offshore across open water | LL | SB | closed, mysterious | waves break on the outer reef
+215 | The island's dense tree line rising behind the beach, completely untouched | LL | OV | guarded, mysterious | the forest stands still
+216 | The full island from high above with reef and white sand ring | AH | SB | isolated, pristine | the camera circles high above
+217 | A white sand ring and turquoise coral reef surrounding the forest | AO | SB | pristine, guarded | waves wash over the reef
+218 | Thick green jungle canopy hiding the island interior | TD | OV | secretive, impenetrable | the canopy sways in the wind
+219 | Smoke from a small cooking fire rising faintly above the forest canopy | LL | DW | ancient, private | a thin smoke trail rises
+220 | The island interior as an unbroken forest mass | AH | OV | unknown, mysterious | the camera drifts over the canopy
+221 | Faint distant footprints in the sand along the empty beach | LL | GH | elusive, uncertain | waves erase the footprints
+222 | The empty beach with a wall of forest behind it | LL | GH | guarded, firm | wind moves through the trees
+223 | A distant beach seen through heat haze, tiny silhouettes standing at the tree line | LL | SB | defensive, tense | figures watch from the shade
+224 | An arrow embedded in the hull of a small wooden boat floating offshore | CU | SB | warning, tense | the boat rocks gently
+225 | !The Andaman Islands coastline in the Indian Ocean after the 2004 tsunami, debris scattered along altered beaches | AH | OV | aftermath, somber | the camera surveys the changed shore
+226 | A helicopter flying low over the island's reef | AO | SB | tense, intrusive | the helicopter banks over the beach
+227 | A tiny distant silhouette of a person on the white beach, seen from a helicopter high above | TD | SB | defiant, striking | the figure stands firm on the sand
+228 | A distant silhouetted figure raising a bow toward the sky on an empty beach | LL | BL | defiant, unforgettable | the bow is drawn toward the helicopter
+229 | A small fishing boat drifting near a reef, empty | LL | OV | tragic, ominous | the boat drifts in the current
+230 | A small kayak pulled up on an empty beach, waves washing around it | LL | DU | grim, final | the tide moves the kayak
+231 | An Indian Coast Guard vessel patrolling far offshore | LL | SB | protective, firm | the ship holds its distance
+232 | The island and a patrol boat separated by a wide stretch of sea | AH | SB | balanced, tense | the boat turns away
+233 | The untouched forest edge meeting the beach | LL | OV | isolated, fragile | leaves move in the breeze
+234 | A dense quiet forest seen from offshore through morning mist | LL | DW | fragile, vulnerable | mist hangs over the trees
+235 | A lone boat approaching the reef from far away | LL | SB | risky, uneasy | the boat cuts through the water
+236 | The island small and green in the middle of the vast ocean | AH | SB | vulnerable, isolated | the camera rises higher
+237 | Patrol boat on one side and the protected island on the other | AH | SB | protective, respectful | the boat holds position
+238 | The ocean horizon stretching away from the island toward the world | LL | DU | respectful, distant | the sun sets behind the island
+239 | The island glowing green at sunset | AO | GH | timeless, sovereign | the light fades over the forest
+240 | The island silhouetted against a red sunset sky | LL | DU | timeless, sovereign | the silhouette darkens slowly
+
+@ 9. THE DARIÉN GAP — Panama and Colombia | The Darién Gap on the border of Panama and Colombia, a roadless wilderness of dense rainforest, swamps, muddy rivers and steep jungle ridges
+241 | !The Pan-American Highway stretching through a vast American landscape toward distant mountains | AH | GH | epic, continental | traffic flows along the endless highway
+242 | !A highway winding through Patagonian plains toward the southern tip of South America | AH | GH | vast, sweeping | the road stretches into the distance
+243 | !A long straight highway cutting through deserts and mountains, seen from above | AH | SB | endless, ambitious | the camera follows the road
+244 | !A paved highway ending abruptly at a wall of jungle in eastern Panama where the Darién Gap begins | LA | OV | sudden, ominous | the drone flies to the end of the road
+245 | The asphalt highway stopping where dense jungle begins | AO | OV | final, foreboding | the road disappears into green
+246 | The edge of the rainforest swallowing a muddy trail | GW | OV | foreboding, wild | vines hang over the trail
+247 | Endless roadless jungle stretching across mountains | AH | FG | vast, impenetrable | mist rolls over the ridges
+248 | Swamps and mountains covered in rainforest | AH | OV | impenetrable, vast | rain clouds drift over the forest
+249 | Dense rainforest with no roads or clearings | AH | ST | impenetrable, overwhelming | the canopy stretches unbroken
+250 | A muddy jungle river rising fast after rain | GW | ST | dangerous, sudden | brown water surges over rocks
+251 | Boots sinking deep into thick jungle mud | CU | OV | grueling, exhausting | a boot pulls free from the mud
+252 | Humid jungle air heavy with mist between giant trees | GW | FG | oppressive, stifling | sweat-like moisture drips from leaves
+253 | A venomous fer-de-lance snake on the forest floor | CU | OV | dangerous, tense | the snake coils on wet leaves
+254 | A steep slippery jungle ridge with exposed roots and mud | LO | OV | grueling, treacherous | water runs down the slope
+255 | Old explorers' maps of Central America with the region left blank | CU | GL | historic, forbidding | lamplight flickers over the map
+256 | The jungle seen as an impassable green wall from above | AH | FG | impenetrable, forbidding | mist rises from the canopy
+257 | A narrow muddy trail cutting into the jungle | GW | OV | resolute, risky | the trail winds into the trees
+258 | A line of people walking through the jungle with backpacks, seen from behind at a distance | LL | OV | determined, somber | the group crosses a stream
+259 | A long line of travelers crossing a muddy river holding a rope | LL | OV | determined, perilous | people wade through the current
+260 | A parent carrying a small child on their shoulders through jungle mud, seen from behind | EL | OV | resilient, hopeful | they step carefully over roots
+261 | Crowds of travelers in colorful rain ponchos moving along a jungle trail | AO | OV | massive, sobering | the line winds through the trees
+262 | A camp of tarps and hammocks in the jungle at night | AO | NT | exhausting, uncertain | rain falls on the tarps
+263 | A fast muddy river with discarded backpacks caught on rocks | GW | ST | perilous, tragic | the current pulls at the debris
+264 | Dense fog over the jungle with an empty trail disappearing into it | GW | FG | haunting, somber | fog swallows the trail
+265 | The jungle canopy seen from above where the highway ends | AH | FG | defeating, vast | the camera rises above the endless green
+266 | Travelers emerging from the jungle onto a riverbank | LL | GH | resilient, hopeful | they step into the light
+
+@ 10. THE TROPICAL COAST — Northern Australia | The tropical coast of northern Australia, empty white-sand beaches, turquoise shallow water, mangrove estuaries and red cliffs under bright sun
+267 | An empty paradise beach with turquoise water and palm trees | AH | SB | idyllic, deceptive | gentle waves lap the sand
+268 | Untouched white sand stretching for kilometers with no people | AO | SB | serene, deceptive | the drone glides along the beach
+269 | Warm sun over calm turquoise water | LA | BL | inviting, deceptive | sunlight sparkles on the water
+270 | A sandy beach entrance path between dunes | GW | SB | ordinary, curious | the path leads toward the water
+271 | A white post with a bottle of vinegar and a stinger warning sign at a beach entrance | CU | SB | warning, unsettling | wind moves the sign
+272 | Calm tropical shallows during stinger season under hazy summer sun | AO | SB | tense, foreboding | heat haze shimmers over the water
+273 | Pale box jellyfish drifting in shallow clear water | UW | UL | menacing, ghostly | the jellyfish pulses forward
+274 | A transparent pale box jellyfish almost invisible in the water | UW | UL | ghostly, deceptive | light passes through its bell
+275 | A swimmer's legs in clear water with a nearly invisible jellyfish nearby | UW | UL | tense, unaware | the swimmer drifts closer
+276 | A box jellyfish with long trailing tentacles | UW | UL | menacing, graceful | the tentacles sway in the current
+277 | Extreme close-up of tentacles lined with stinging cells | CU | UL | microscopic, lethal | the cells shimmer
+278 | A box jellyfish tentacle wrapped around a small fish | UW | UL | lethal, swift | the fish stops moving
+279 | A lifeguard rushing into the shallows with a first-aid kit | EL | SB | urgent, alarming | the lifeguard sprints into the water
+280 | A box jellyfish glowing faintly in deep blue water | UW | UL | lethal, eerie | the bell contracts slowly
+281 | A group of box jellyfish drifting in the shallows | UW | UL | deadly, ominous | they drift together
+282 | Swimmers in full-body stinger suits wading into the sea | GW | SB | cautious, adaptive | they enter the water
+283 | An enclosed stinger net in the shallows with swimmers inside | AO | SB | protective, careful | swimmers float within the net
+284 | A lifeguard pouring vinegar from a bottle | CU | SB | practical, urgent | vinegar splashes onto skin
+285 | A mangrove estuary meeting the sea | AO | SB | ominous, shifting | the tide moves through the mangroves
+286 | Muddy river estuaries winding into the sea | AH | SB | wild, dangerous | the water flows out to sea
+287 | A huge saltwater crocodile lurking in murky water with only its eyes visible | LL | GH | menacing, predatory | the crocodile drifts silently
+288 | A massive saltwater crocodile basking on a mudbank | LL | SB | awe, intimidating | the crocodile opens its jaws
+289 | A crocodile swimming from a river mouth into the open sea | AO | SB | powerful, unstoppable | it glides through the surf
+290 | The beautiful coastline at sunset with no one in the water | AH | GH | deceptive, serene | waves roll in gently
+291 | The turquoise sea with a jellyfish and crocodile hidden below | AO | DU | ominous, final | the light fades on the water
+
+@ 11. THE SUNDARBANS — India and Bangladesh | The Sundarbans on the border of India and Bangladesh, the largest mangrove forest on Earth, a maze of tidal channels, mudflats and tangled mangrove roots under humid haze
+292 | Mangrove channels with a crocodile slipping off a mudbank | LL | OV | menacing, building | the crocodile slides into the water
+293 | Fishermen in a wooden boat on a narrow mangrove channel | GW | FG | uneasy, vulnerable | they paddle slowly
+294 | The vast delta where great rivers meet the Bay of Bengal | AH | SB | immense, fragmented | the camera sweeps over the delta
+295 | Thousands of channels and islands dissolving into the sea | AH | FG | complex, endless | the tide moves through the channels
+296 | Dense mangrove forest stretching to the horizon | AH | OV | vast, wild | mist hangs over the trees
+297 | Tangled mangrove roots and glistening mudflats | GW | OV | dense, primal | crabs scuttle across the mud
+298 | Tidal creeks winding through mangroves | TD | SB | intricate, wild | water flows through the maze
+299 | The tide flooding into the mangrove forest | LA | OV | relentless, shifting | water rises around the roots
+300 | The tide draining away to reveal mud and roots | LA | GH | shifting, rhythmic | water retreats from the forest
+301 | Soft mud sinking under a footprint | CU | OV | unstable, uneasy | water fills the footprint
+302 | Brackish water mixing in a tidal channel | CU | OV | shifting, murky | swirls of silt move through the water
+303 | A Bengal tiger moving through mangrove roots | LL | FG | majestic, menacing | the tiger stalks forward
+304 | A Bengal tiger staring from the mangrove shadows | LL | OV | intense, unsettling | the tiger's eyes lock on
+305 | A Bengal tiger swimming across a wide tidal channel | LL | GH | powerful, astonishing | the tiger paddles across the water
+306 | A tiger blending into mangrove shadows almost invisible | LL | FG | stealthy, eerie | the tiger fades into the trees
+307 | A tiger crouched in the mangroves near a fishing boat | LL | FG | terrifying, predatory | the tiger lowers itself
+308 | Honey collectors moving through dense mangroves with smoke torches | GW | FG | brave, tense | they push through the roots
+309 | A crab catcher in a small boat setting lines in the mangroves | EL | OV | determined, vulnerable | he lowers a line into the water
+310 | An empty wooden boat drifting in a mangrove channel | LL | FG | tragic, haunting | the boat drifts slowly
+311 | Fishermen preparing boats at dawn in a riverside village | GW | DW | resilient, adaptive | they load nets into boats
+312 | A worker wearing a face mask on the back of his head while walking through mangroves, seen from behind | EL | OV | clever, eerie | he steps through the roots
+313 | A tiger stalking behind a worker through dense roots | LL | FG | terrifying, tense | the tiger follows silently
+314 | A tiger pausing as it faces a mask looking back at it | LL | FG | tense, hopeful | the tiger hesitates
+315 | A village of mud houses at the edge of the mangrove forest | AO | GH | fragile, resilient | smoke rises from cooking fires
+316 | Women in colorful saris standing outside village homes near the forest | EL | GH | somber, enduring | they look toward the forest
+317 | A quiet village street with empty doorways | GW | OV | mournful, quiet | wind stirs dust in the street
+318 | The dark mangrove forest seen from the village edge | GW | DU | haunting, ominous | shadows deepen in the forest
+319 | Wooden boats heading into the mangroves at sunrise | AO | DW | resilient, determined | boats glide into the channels
+320 | Honey combs and baskets of fish carried from the forest | CU | GH | grateful, hard-won | hands lift baskets
+321 | The mangrove forest at dusk with a tiger silhouette at the waterline | LL | DU | ominous, final | the tiger disappears into shadow
+
+@ 12. DEATH VALLEY — California, United States | Death Valley in eastern California, a vast scorching desert basin below sea level between barren mountain ranges, salt flats, dunes and heat haze
+322 | The scorching desert basin shimmering in extreme heat | AH | SB | oppressive, menacing | heat waves ripple over the valley
+323 | The valley floor between two rugged mountain ranges | AH | SB | vast, isolated | the camera glides between the ranges
+324 | The basin sinking below sea level with a vast salt floor | AO | SB | eerie, extreme | the drone descends into the basin
+325 | An iconic wide view of the valley with sand dunes and salt flats | AH | GH | iconic, harsh | shadows move across the dunes
+326 | Badwater Basin's white salt flats stretching to the mountains | AO | SB | stark, surreal | the camera glides over the salt
+327 | A sign marking sea level high on a cliff above the salt flats | LO | SB | astonishing, eerie | the camera tilts up to the sign
+328 | The lowest point of North America as a blinding white salt plain | AH | SB | extreme, surreal | heat shimmers above the salt
+329 | Salt crust cracked into endless hexagonal polygons | TD | GH | geometric, alien | shadows define the patterns
+330 | !A photoreal historical recreation of Furnace Creek ranch in Death Valley, California, in 1913, with a wooden weather station in blazing heat | GW | SB | historic, intense | dust blows past the station
+331 | A thermometer at Furnace Creek showing extreme heat | CU | SB | alarming, record | the thermometer glares in the sun
+332 | The desert shimmering under blazing sun with no shade | AH | SB | record-breaking, oppressive | heat haze distorts the horizon
+333 | Cracked burning ground radiating heat | CU | SB | scorching, intense | heat waves ripple above the ground
+334 | An infrared thermometer pointed at the cracked desert ground | CU | SB | alarming, clinical | the reading climbs on the display
+335 | Bare footprints in the burning salt crust | CU | SB | painful, dangerous | heat ripples over the footprints
+336 | The desert at night still glowing with heat haze | AO | NT | stifling, relentless | stars shimmer through the hot air
+337 | The valley floor at dawn still shimmering with heat | AO | DW | oppressive, endless | the sun rises over hot ground
+338 | Mountains trapping the basin like walls | AH | SB | confining, heavy | the camera reveals the enclosing ranges
+339 | Hot air pressing down into the basin, visualized with heat shimmer | AH | SB | oppressive, scientific | heat haze thickens
+340 | The basin glowing orange like an oven at sunset | AH | GH | intense, oppressive | heat radiates from the ground
+341 | A broken-down car on a lonely desert road with steam rising from the engine | GW | SB | stranded, alarming | steam pours from the hood
+342 | A lone hiker walking across vast salt flats toward distant mountains | LL | SB | vulnerable, misguided | the hiker grows smaller
+343 | An empty water bottle lying on cracked desert ground | CU | SB | desperate, ominous | wind rolls the bottle
+344 | Racetrack Playa, a flat cracked dry lakebed surrounded by mountains | AH | GH | mysterious, strange | the camera rises over the playa
+345 | A heavy stone on the dry lakebed with a long trail behind it | CU | GH | mysterious, surreal | the light reveals the trail
+346 | Long winding trails behind stones across the cracked playa | TD | GH | mysterious, eerie | the camera follows the trails
+347 | Many stones and trails scattered across the dry lakebed | AH | GH | puzzling, haunting | shadows stretch across the playa
+348 | A time-lapse camera on a tripod pointed at the playa | EL | DW | scientific, discovering | the camera records
+349 | Thin sheets of ice floating on a shallow water layer on the playa | LA | DW | revealing, surprising | ice sheets drift with the wind
+350 | A stone pushed slowly by ice across the mud | CU | DW | fascinating, gentle | the ice nudges the rock forward
+351 | Frost on the desert floor with snow-capped peaks in the distance | GW | DW | surprising, quiet | frost glistens at sunrise
+352 | Frost melting into hot desert ground as the sun rises | CU | GH | fleeting, harsh | frost evaporates in the sun
+
+@ 13. THE LUT DESERT — Iran | The Lut Desert in southeastern Iran, a vast hyper-arid desert of sand, salt flats, black volcanic rock and giant wind-carved kalut ridges
+353 | The vast desert seen from high above, glowing hot | AH | SB | extreme, mysterious | heat haze rises from the ground
+354 | Endless sand and rock under a white sky | AH | SB | remote, barren | the drone flies over empty terrain
+355 | The desert stretching toward the horizon | AH | SB | immense, lifeless | the camera sweeps over the dunes
+356 | Vast sand seas and salt flats | AH | GH | immense, harsh | wind ripples the sand
+357 | Salt crust and stone fields | TD | SB | barren, harsh | shadows move across the stone
+358 | !The Lut Desert in Iran seen from orbit glowing hot orange and red in a satellite thermal view | SP | SB | alarming, scientific | the glowing hot spot pulses
+359 | !A satellite orbiting Earth above a desert region | SP | SB | technological, observant | the satellite passes overhead
+360 | Shimmering heat over black ground | LA | SB | scorching, record | heat ripples rise
+361 | Waves of heat rising from dark desert ground | GW | SB | extreme, record | the horizon distorts
+362 | The desert floor glowing intensely in the afternoon sun | AH | SB | record-breaking, hostile | heat haze shimmers
+363 | Dark volcanic rock fields absorbing the sun | AO | SB | harsh, intense | heat radiates from the stones
+364 | Close-up of black basalt stones baking in the sun | CU | SB | scorching, harsh | heat shimmers above the rocks
+365 | Empty desert with no plants or animals | GW | SB | lifeless, stark | wind blows sand across the ground
+366 | The hottest corner of the desert completely barren | AH | SB | sterile, extreme | the drone hovers over bare ground
+367 | Wind blowing sand across the desert | GW | GH | dynamic, relentless | sand streams over ridges
+368 | Giant wind-carved kalut ridges | AH | GH | monumental, sculptural | shadows stretch between ridges
+369 | Towering sediment walls over a hundred meters high | LO | GH | monumental, imposing | the camera tilts up the walls
+370 | Rows of kaluts like ruined city blocks | AH | GH | surreal, ancient | the drone flies along the rows
+371 | Kaluts resembling the ruins of a lost civilization | AO | DU | mysterious, eerie | dusk shadows deepen
+372 | A close view of a kalut showing raw eroded sediment, not walls | CU | GH | revealing, natural | sand grains blow off the ridge
+373 | Wind blowing steadily through the corridors between kaluts | LA | GH | relentless, natural | sand streams through the corridors
+374 | The empty desert interior far from any road | AH | SB | forbidding, remote | the drone flies into emptiness
+375 | A lone research vehicle dwarfed by the desert | AH | SB | isolated, daring | dust trails behind the vehicle
+376 | Unexplored desert stretching to the horizon | AH | SB | unknown, vast | the camera rises higher
+377 | Scientists viewing satellite data of the desert on a screen | EL | OV | scientific, curious | a satellite image glows on the screen
+378 | !The Lut Desert seen from orbit as a vast glowing patch on Earth | SP | SB | awe, remote | the planet rotates below
+
+@ 14. THE SKELETON COAST — Namibia | The Skeleton Coast of Namibia, where golden desert dunes meet the cold Atlantic, fog-shrouded beaches, rusting shipwrecks and bleached whale bones
+379 | The southwestern African coastline with dunes meeting the ocean | AH | SB | harsh, dramatic | waves break against the sand
+380 | Sand dunes running straight into the sea | AO | GH | stark, dramatic | surf rolls up the beach
+381 | A hostile shoreline stretching for hundreds of kilometers | AH | FG | hostile, desolate | fog drifts over the coast
+382 | Wide view of the coast with shipwrecks and fog | AH | FG | haunting, iconic | the camera rises over the coast
+383 | Cold blue ocean water flowing along the shore | AO | OV | cold, powerful | waves move along the coastline
+384 | Heat haze over desert dunes beside the ocean | AH | SB | contrasting, harsh | heat shimmers over the sand
+385 | The meeting point of cold ocean and hot desert | AH | GH | elemental, dramatic | fog forms over the water
+386 | Dense fog rolling from the sea over the coastline | AO | FG | smothering, ominous | fog swallows the beach
+387 | A ship's bow emerging from thick fog | LL | FG | doomed, tense | the ship drifts toward shore
+388 | Violent surf over hidden sandbanks | AO | ST | dangerous, violent | waves crash over the bars
+389 | Waves dragging a wrecked hull onto the beach | LL | ST | violent, relentless | surf pushes the hull
+390 | Rusted shipwreck frames on the beach | GW | FG | haunting, desolate | fog drifts through the rusted frame
+391 | A broken ship's bow half buried in sand | GW | GH | haunting, decayed | shadows move across the hull
+392 | Scattered wrecks along kilometers of beach | AH | FG | haunting, vast | the drone flies along the coast
+393 | A shipwreck stranded far inland among dunes | AH | GH | surreal, haunting | sand blows across the wreck
+394 | The coastline pushed outward by desert sand | AH | GH | geological, surprising | dunes creep toward the sea
+395 | A ship stranded in sand far from water | GW | GH | surreal, lonely | wind blows sand against the hull
+396 | The ocean distant behind a stranded wreck | LL | DU | surreal, haunting | the light fades on the wreck
+397 | Bleached whale bones on the sand | CU | OV | haunting, macabre | sand blows over the bones
+398 | Whale skeletons from old whaling stations scattered on the beach | GW | FG | eerie, historic | fog drifts over the bones
+399 | Footprints leading from the surf into empty desert | GW | FG | tragic, haunting | waves erase the footprints
+400 | An empty desert landscape with no water or shade | AH | SB | hopeless, harsh | heat shimmers over the dunes
+401 | !A photoreal historical recreation of a Portuguese caravel approaching the fog-shrouded desert coast of Namibia | LL | FG | foreboding, historic | the ship sails into the fog
+402 | !Silhouettes of San people walking across inland desert dunes of Namibia | LL | GH | ancient, solemn | they walk along the ridge
+403 | Barren dunes and twisted rock under a harsh sky | AH | ST | angry, harsh | wind whips sand into the air
+404 | An empty beach stretching to the horizon | AH | OV | desolate, quiet | waves roll in
+405 | A gate with a skull-and-crossbones sign at the park entrance | GW | SB | forbidding, restrictive | the gate swings in the wind
+406 | Desert lions walking along the beach | LL | GH | wild, surprising | the lions stride across the sand
+407 | Jackals scavenging at a seal colony | LL | GH | wild, harsh | jackals move among the seals
+408 | Dunes meeting the ocean at sunset | AH | GH | poetic, majestic | waves roll into the sand
+409 | Ocean waves washing against desert sand at dusk | AO | DU | poetic, timeless | the surf retreats over the sand

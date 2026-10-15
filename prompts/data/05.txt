@@ -1,0 +1,241 @@
+@ 32. CENTRALIA — Pennsylvania, United States | Centralia in eastern Pennsylvania, an almost empty small town of overgrown streets and vacant lots above an underground coal-mine fire, with steam and smoke seeping from cracked ground
+867 | !A montage-style wide landscape of a wild volcano on one side and abandoned industrial ruins on the other, under a moody sky | AH | ST | reflective, ominous | clouds drift between nature and ruins
+868 | Abandoned streets with smoke seeping from the ground | GW | OV | ominous, man-made | smoke drifts from cracks
+869 | Empty grid of streets with only a few houses left among trees | AH | OV | desolate, eerie | the drone glides over the empty town
+870 | A lone house standing among vacant lots | AO | OV | iconic, lonely | wind moves through the trees
+871 | !A photoreal historical recreation of the 1962 garbage dump fire in Centralia, Pennsylvania, with smoke rising | GW | OV | historic, ominous | flames flicker in the trash
+872 | A fire glowing along an exposed coal seam | CU | GL | ominous, spreading | flames creep into the coal
+873 | Smoke disappearing into a crack in the ground | CU | OV | ominous, hidden | smoke sinks into the earth
+874 | Old abandoned mine tunnels underground | EL | DK | hidden, vast | a light reveals the timber supports
+875 | A glowing fire spreading through a mine tunnel | EL | GL | relentless, hidden | flames crawl along the coal
+876 | Hot ground with steam rising from the soil | GW | OV | ominous, building | heat shimmers above the ground
+877 | Smoke seeping from cracks in a road | CU | OV | eerie, alarming | smoke drifts up from the asphalt
+878 | A basement window with faint haze inside | EL | OV | dangerous, invisible | haze drifts in the dim light
+879 | A sinkhole opening in a backyard | GW | OV | sudden, alarming | soil collapses into the hole
+880 | Families loading belongings into trucks | GW | OV | sorrowful, forced | they carry boxes out
+881 | A house being demolished by an excavator | GW | OV | final, sorrowful | walls collapse into dust
+882 | Rows of empty lots where houses once stood | AH | OV | haunting, empty | grass blows across the lots
+883 | A few houses remaining in the overgrown town | AO | OV | lonely, haunting | the drone circles the last homes
+884 | A cracked buckled road with steam rising | GW | OV | broken, ominous | steam drifts from the cracks
+885 | An abandoned highway stretch covered in graffiti | AO | OV | surreal, abandoned | the drone flies along the road
+886 | A graffiti road being covered with dirt by machinery | AO | OV | final, erasing | soil is spread over the road
+887 | Smoke rising from the ground in the woods | GW | FG | ominous, ongoing | smoke curls between trees
+888 | Underground fire glowing beneath the town in a cutaway view | AO | GL | endless, ominous | the fire spreads underground
+889 | Smoke drifting over the empty town at dusk | AO | DU | ominous, enduring | the light fades over the smoke
+890 | Trees growing over empty streets | GW | GH | haunting, reclaiming | leaves blow across the road
+891 | Steam rising from the ground on a cold morning | GW | DW | haunting, eerie | steam drifts across the frost
+
+@ 33. LAKE PEIGNEUR — Louisiana, United States | Lake Peigneur in southern Louisiana, a lake surrounded by cypress trees, marsh and a botanical garden, above a deep underground salt dome mine
+892 | Slow-moving smoke drifting over abandoned ground | GW | OV | slow, ominous | smoke curls across the ground
+893 | A calm lake at sunrise with an oil rig on the water | AO | DW | quiet, ominous | mist drifts across the water
+894 | A shallow freshwater lake with cypress trees | AO | GH | peaceful, ordinary | the water reflects the trees
+895 | Fishermen in small boats on the shallow lake | GW | GH | peaceful, ordinary | they cast lines into the water
+896 | A botanical garden on the lakeshore with greenhouses | AO | GH | serene, beautiful | flowers sway in the breeze
+897 | Huge salt mine tunnels beneath the lake | EL | DK | hidden, vast | miners' lights glow in the tunnels
+898 | Massive pale salt tunnels with high ceilings | EL | DK | vast, hidden | trucks move through the tunnels
+899 | A cutaway view of a salt dome beneath the lake | AO | DK | hidden, ominous | tunnels branch through the salt
+900 | !A photoreal historical recreation of an oil drilling rig on shallow Lake Peigneur, Louisiana, in 1980 | GW | OV | historic, ominous | the rig drills into the lake
+901 | A drilling rig boring into the lakebed | CU | OV | routine, ominous | the drill spins
+902 | A drill bit punching into a salt mine tunnel | EL | DK | sudden, catastrophic | water sprays into the tunnel
+903 | Water pouring through a hole into the mine | EL | DK | alarming, sudden | water gushes into the tunnel
+904 | The hole widening as water rushes in | CU | DK | catastrophic, escalating | the edges crumble away
+905 | The lake surface draining into a vortex | AH | OV | catastrophic, surreal | the water spirals down
+906 | A giant whirlpool forming in the lake | TD | OV | terrifying, mesmerizing | the vortex spins
+907 | A drilling rig and tugboat sucked into the whirlpool | AO | OV | catastrophic, surreal | the rig tilts into the vortex
+908 | Barges disappearing one by one into the whirlpool | AO | OV | surreal, catastrophic | barges spiral down
+909 | A barge vanishing into the vortex | CU | OV | terrifying, surreal | the barge sinks
+910 | Miners running through flooding tunnels | EL | DK | urgent, terrifying | water surges behind them
+911 | Miners emerging from a mine shaft into daylight | GW | OV | relieved, shaken | they climb out
+912 | A canal flowing backward into the empty lake | AO | OV | surreal, astonishing | water reverses direction
+913 | Water pouring into the emptied basin | AO | OV | astonishing, powerful | water rushes over the edge
+914 | A huge temporary waterfall plunging into the dry lakebed | AO | OV | spectacular, surreal | water cascades into the basin
+915 | The waterfall thundering down dozens of meters | LO | OV | awe, surreal | spray rises from the base
+916 | The lakebed refilled with dark water | AH | OV | transformed, eerie | water settles in the basin
+917 | A deep saltwater lake where the freshwater lake once was | AH | GH | transformed, eerie | the light reflects on the new lake
+918 | Rescue boats gathering on the lake | GW | GH | relieved, astonishing | people wave from boats
+919 | Barges bobbing back to the surface | AO | OV | surreal, astonishing | barges pop up from the water
+920 | Barges floating on the lake like corks | AO | GH | surreal, relieved | the barges drift
+
+@ 34. WITTENOOM — Western Australia | Wittenoom in the Pilbara region of Western Australia, a ghost town of empty streets among deep red gorges, spinifex grass and old asbestos mine tailings
+921 | Deep red gorges in Western Australia | AH | GH | beautiful, ominous | the drone flies over the gorge
+922 | A town erased from the map in the outback | AH | SB | eerie, erased | empty streets appear below
+923 | Empty streets and abandoned buildings in the red landscape | AO | SB | haunting, abandoned | dust blows across the street
+924 | !A photoreal historical recreation of the busy 1950s asbestos mining town of Wittenoom, Western Australia, with workers and trucks | GW | SB | historic, bustling | trucks drive through town
+925 | Workers arriving at the mine from all over the world | GW | SB | hopeful, historic | workers walk toward the mine
+926 | Blue asbestos fibers exposed in red rock | CU | SB | dangerous, toxic | fibers glint in the light
+927 | Dust swirling inside a mine tunnel | EL | DK | toxic, pervasive | dust hangs in the air
+928 | Dust blowing across a dirt road | GW | SB | toxic, pervasive | dust swirls in the wind
+929 | An old playground covered in dust | GW | SB | haunting, innocent | swings move in the wind
+930 | Dust drifting through sunbeams in an abandoned building | EL | BL | ominous, unknowing | particles drift in the light
+931 | Microscopic asbestos fibers in lung tissue visualization | CU | DK | scientific, alarming | fibers glint under magnification
+932 | An empty hospital ward with soft light | EL | OV | sorrowful, sobering | curtains move gently
+933 | !A photoreal historical recreation of the Wittenoom asbestos mine entrance in Western Australia being closed off with a gate in 1966 | GW | OV | historic, final | a worker locks the gate
+934 | Abandoned mine buildings decaying in the sun | GW | SB | ominous, lingering | dust blows through broken windows
+935 | Memorial plaque near the gorge | CU | GH | mournful, sobering | the light falls on the plaque
+936 | Rows of empty houses in the ghost town | AO | SB | tragic, haunting | wind moves through the empty houses
+937 | Piles of mine tailings beside the road | GW | SB | toxic, lingering | dust drifts off the piles
+938 | A boarded-up post office and closed shops | GW | SB | abandoned, final | a door swings in the wind
+939 | A road sign with the town name removed | CU | SB | erased, eerie | the empty sign creaks
+940 | A warning sign at the town entrance | CU | SB | warning, ominous | wind blows dust past the sign
+941 | One remaining house with a tended garden | GW | GH | defiant, lonely | a clothesline moves in the wind
+942 | The last house standing empty | GW | DU | final, lonely | the light fades on the house
+943 | An excavator demolishing a building | GW | SB | final, erasing | walls crumble into dust
+944 | The beautiful red gorge with a still pool | AO | GH | beautiful, ironic | sunlight sparkles on the water
+945 | Fine dust drifting in sunlight over the gorge | GW | GH | haunting, lingering | dust drifts in the light
+
+@ 35. GRUINARD ISLAND — Scotland | Gruinard Island off the northwest coast of Scotland, a small treeless grassy island in a sheltered sea bay beneath moody Highland skies
+946 | The rugged northwest coast of Scotland | AH | OV | wild, quiet | waves wash along the coast
+947 | A small grassy island in a sheltered bay | AO | OV | quiet, deceptive | grass moves in the wind
+948 | Wide view of the island and bay | AH | OV | iconic, calm | clouds drift over the island
+949 | !A photoreal historical recreation of a small wartime boat crossing Gruinard Bay, Scotland, in 1942 | LL | OV | historic, secretive | the boat crosses the water
+950 | Sheep grazing on the island in a wartime scene | GW | OV | ominous, innocent | sheep graze on the hillside
+951 | A faint cloud drifting over a grassy hillside | GW | OV | ominous, sinister | the haze drifts across the grass
+952 | !A photoreal historical recreation of 1940s scientists in protective suits on a hillside of Gruinard Island, Scotland | LL | OV | secretive, chilling | they observe from a distance
+953 | Empty grassy hillside after the test | GW | OV | grim, chilling | wind moves the grass
+954 | The island under dark clouds | AO | ST | chilling, ominous | clouds roll over the island
+955 | Soil and grass close-up with tiny spores visualized | CU | OV | scientific, ominous | particles glint in the soil
+956 | Quarantine warning signs on the shore | GW | OV | forbidding, official | the signs stand in the wind
+957 | The island empty and untouched for decades | AO | OV | isolated, haunting | waves wash the empty beach
+958 | A weathered warning sign on the shore | CU | OV | forbidding, haunting | rain runs down the sign
+959 | Tall wild grass blowing on the empty island | GW | OV | patient, eerie | the grass ripples in the wind
+960 | Fishing boats steering wide of the island | LL | OV | cautious, wary | the boats turn away
+961 | The island seen from a mainland cottage window | EL | OV | eerie, close | rain streaks the window
+962 | The green island barely a kilometer offshore | LL | OV | eerie, close | mist drifts over the island
+963 | !A photoreal historical recreation of a small rubber boat approaching Gruinard Island, Scotland, at night in 1981 | LL | NT | daring, tense | the boat slips through dark water
+964 | Shadowy figures landing on a dark beach | LL | NT | covert, tense | figures step ashore
+965 | Gloved hands filling a container with soil | CU | NT | covert, tense | soil is scooped into a box
+966 | A sealed box left outside a government research building | GW | NT | defiant, tense | the box sits by the gate
+967 | Officials studying the island from a boat | EL | OV | pressured, determined | they look toward the island
+968 | Workers in protective suits returning to the island | GW | OV | determined, careful | they walk onto the beach
+969 | Workers spraying the soil with chemical solution | GW | OV | careful, laborious | spray covers the ground
+970 | Contaminated soil being removed into sealed containers | GW | OV | methodical, careful | containers are loaded onto a boat
+971 | !A photoreal historical recreation of officials removing warning signs from Gruinard Island, Scotland, in 1990 | GW | GH | relieved, historic | the sign is lifted away
+972 | Sheep grazing on the island today | GW | GH | peaceful, healed | lambs play in the grass
+973 | The island under soft evening light | AO | GH | reflective, calm | the camera rises over the island
+974 | The small island glowing at sunset | AH | DU | reflective, haunting | the light fades
+975 | The island quiet in the bay at dusk | LL | DU | reflective, sobering | waves lap the shore
+
+@ 36. LAKE KARACHAY — Russia | Lake Karachay in Russia's southern Ural Mountains near the Mayak nuclear facility, a flat filled-in former lake surrounded by birch forest and industrial buildings
+976 | The southern Ural Mountains with forests and lakes | AH | OV | quiet, ordinary | clouds drift over the forest
+977 | A small ordinary lake surrounded by birch trees | AO | OV | ordinary, calm | ripples cross the water
+978 | Industrial pipes discharging into a lake | GW | OV | ominous, polluting | liquid pours into the water
+979 | Industrial buildings and cooling towers near the lake | AH | OV | ominous, secretive | steam rises from the towers
+980 | !A photoreal historical recreation of the 1950s Mayak nuclear plant in Russia's southern Urals with smokestacks and fences | GW | OV | historic, secretive | smoke rises from the chimneys
+981 | !A photoreal historical recreation of Soviet workers discharging waste into Lake Karachay near the Mayak plant, Russia | GW | OV | historic, ominous | barrels are emptied
+982 | Glowing toxic water in the lake | AO | DU | toxic, alarming | an eerie sheen spreads
+983 | The lake changing over years with growing contamination | AH | OV | relentless, grim | the shoreline darkens
+984 | A warning sign with the radiation symbol near the lake | CU | OV | alarming, official | the sign rattles in the wind
+985 | The lake as a lifeless grey expanse | AH | OV | deadly, record | wind ripples the water
+986 | A Geiger counter needle spiking on the shoreline | CU | OV | alarming, lethal | the needle jumps
+987 | An empty shoreline with no people | GW | OV | lethal, haunting | wind moves the reeds
+988 | A dried, cracked lakebed in drought | AO | SB | dangerous, exposed | dust lifts from the cracks
+989 | Wind lifting dust from the dry lakebed | GW | SB | dangerous, spreading | dust swirls into the air
+990 | A dust cloud spreading over villages and fields | AH | ST | ominous, spreading | the cloud drifts across the land
+991 | Villages and farmland under a hazy sky | AO | OV | tragic, sobering | haze hangs over the fields
+992 | Machines filling the lake with rock | AO | OV | determined, urgent | trucks dump rocks
+993 | Concrete blocks being placed into the lake | AO | OV | methodical, determined | cranes lower blocks
+994 | Layers of soil being spread over rock | AO | OV | methodical, careful | bulldozers spread soil
+995 | The lake surface fully covered by soil and grass | AO | OV | sealed, final | grass blows over the site
+996 | The completed site with fences and markers | AO | GH | final, sealed | the camera circles the site
+997 | An empty grassy field where the lake once was | AH | GH | deceptive, eerie | the camera rises over the field
+998 | Cutaway view showing buried waste beneath the field | AO | DK | ominous, lingering | the hidden layer glows faintly
+
+@ 37. BIKINI ATOLL — Marshall Islands | Bikini Atoll in the Marshall Islands, a ring of palm-covered coral islands encircling a vast turquoise lagoon in the middle of the Pacific Ocean
+999 | The open Pacific Ocean with a distant atoll | AH | SB | remote, calm | the drone flies over the ocean
+1000 | The coral ring encircling a turquoise lagoon | AH | SB | idyllic, iconic | the camera circles above
+1001 | White sand beaches and palm trees | GW | SB | idyllic, peaceful | palms sway in the breeze
+1002 | Clear lagoon water full of fish | UW | UL | idyllic, vibrant | fish swim over coral
+1003 | Wide view of the atoll and lagoon | AH | GH | iconic, peaceful | the camera rises over the lagoon
+1004 | The calm lagoon at sunset | AO | GH | peaceful, deceptive | waves ripple gently
+1005 | !A photoreal historical recreation of Bikini Atoll islanders gathered on a beach in 1946 with a naval ship offshore | GW | SB | historic, sorrowful | families gather on the sand
+1006 | !A photoreal historical recreation of Bikini Atoll islanders boarding boats with their belongings in 1946 | GW | SB | sorrowful, forced | boats carry people away
+1007 | Empty canoes left on the beach | GW | GH | sorrowful, hopeful | waves lap the canoes
+1008 | Naval ships anchored in the lagoon | AH | SB | ominous, historic | ships fill the lagoon
+1009 | A massive mushroom cloud rising over the lagoon | LL | GL | terrifying, historic | the cloud billows upward
+1010 | !A photoreal historical recreation of the 1954 Castle Bravo nuclear test fireball over Bikini Atoll in the Pacific | LL | GL | catastrophic, historic | the fireball expands
+1011 | An enormous fireball rising from the sea | LL | GL | catastrophic, overwhelming | the blast lights the sky
+1012 | A towering mushroom cloud dwarfing distant islands | LL | GL | catastrophic, record | the cloud spreads across the sky
+1013 | Scientists in a bunker reacting to the blast | EL | OV | shocked, tense | instruments shake
+1014 | Fallout drifting across distant islands | AH | ST | ominous, spreading | a haze drifts over the islands
+1015 | A small fishing boat under a strange white ash fall | GW | OV | ominous, tragic | ash falls on the deck
+1016 | A crater blasted into the reef where an island once stood | AH | SB | devastating, stark | water fills the crater
+1017 | A large crater in the coral reef | TD | SB | stark, haunting | the camera rotates over the crater
+1018 | !A photoreal historical recreation of families returning to Bikini Atoll by boat in the 1970s | GW | SB | hopeful, tentative | families step onto the beach
+1019 | A scientist testing coconuts with a Geiger counter | CU | SB | alarming, sobering | the counter clicks
+1020 | Local food like coconuts and fish being tested | CU | SB | alarming, clinical | samples are bagged
+1021 | Families leaving the island again by boat | GW | DU | sorrowful, final | boats sail away
+1022 | Empty islands with abandoned structures among palms | AO | SB | haunting, empty | palms sway in the breeze
+1023 | Divers descending into the lagoon | UW | UL | curious, hopeful | bubbles rise above
+1024 | Coral regrowing over a blast crater | UW | UL | hopeful, resilient | fish dart over the coral
+1025 | Sharks patrolling a healthy reef | UW | UL | resilient, wild | sharks glide through the water
+1026 | A sunken warship on the lagoon floor | UW | UL | haunting, historic | fish swim over the wreck
+1027 | A warship covered in coral and marine life | UW | UL | resilient, haunting | soft coral sways
+1028 | A vibrant reef full of life | UW | UL | hopeful, resilient | fish swarm over the reef
+1029 | Empty beaches at sunset | AO | DU | sorrowful, reflective | waves wash the empty shore
+
+@ 38. THE ARAL SEA — Kazakhstan and Uzbekistan | The former Aral Sea on the border of Kazakhstan and Uzbekistan, now the Aralkum desert of salt-crusted former seabed, dunes and rusting stranded ships under a hazy sky
+1030 | The borderland of Central Asia with a shrunken sea | AH | SB | vast, desolate | the drone flies over the desert
+1031 | !A photoreal historical recreation of the full Aral Sea between Kazakhstan and Uzbekistan with fishing boats on open water | AH | SB | historic, vast | boats sail across the water
+1032 | The remaining water of the sea in the distance | AH | SB | iconic, diminished | the camera reveals the shoreline
+1033 | !A photoreal historical recreation of the 1950s fishing town of Moynaq on the shore of the Aral Sea, boats lining the harbor | GW | SB | historic, thriving | fishermen haul nets
+1034 | !A photoreal historical recreation of Soviet fishing ships working on the open Aral Sea | LL | SB | historic, productive | ships drag nets
+1035 | !A photoreal historical recreation of a Moynaq fish cannery on the Aral Sea with workers packing fish | EL | OV | historic, bustling | workers pack fish
+1036 | Irrigation canals cutting through dry land | AH | SB | ominous, transformative | water flows away
+1037 | Cotton fields fed by diverted rivers | AH | SB | transformative, ominous | sprinklers water the fields
+1038 | The shoreline retreating across exposed seabed | AH | SB | shrinking, alarming | the water pulls back
+1039 | A vast empty seabed with a tiny remnant of water | AH | SB | devastating, stark | the camera rises higher
+1040 | Desert stretching where water once was | AH | SB | desolate, stark | dust blows across the ground
+1041 | The new Aralkum desert with salt crust | AH | SB | new, desolate | the drone glides over the crust
+1042 | Rusted ships stranded in the sand | GW | GH | haunting, surreal | wind blows sand past the hulls
+1043 | The town of Moynaq with abandoned buildings | AO | SB | haunting, desolate | dust drifts through the streets
+1044 | An old harbor overlooking dunes | GW | GH | surreal, haunting | sand blows over the pier
+1045 | Salt crust and chemical residues on the exposed seabed | CU | SB | toxic, harsh | the crust glistens
+1046 | A dust storm rising from the seabed | AO | ST | toxic, menacing | dust billows into the sky
+1047 | Toxic dust clouds sweeping over villages | AH | ST | ominous, spreading | the cloud rolls over rooftops
+1048 | Withered crops in a dusty field | GW | SB | tragic, harsh | dust blows across the field
+1049 | The middle of the old seabed with a former island | AH | SB | mysterious, eerie | the camera flies toward the island
+1050 | Abandoned laboratory buildings on a desert island | GW | OV | sinister, abandoned | wind blows through broken windows
+1051 | A former island now joined to the land by desert | AH | SB | surreal, ominous | dust drifts across the land bridge
+1052 | A dam holding back water in the northern sea | AO | SB | hopeful, restorative | water flows over the spillway
+1053 | Water returning to part of the sea | AH | GH | hopeful, restorative | waves lap the new shoreline
+1054 | The vast dry seabed stretching to the horizon | AH | DU | sobering, final | the camera rises over the desert
+1055 | Rusted ship silhouettes in the desert at dusk | GW | DU | haunting, reflective | the light fades on the hulls
+1056 | An empty dry seabed with a single rusted ship | AH | DU | final, haunting | dust drifts in the wind
+
+@ EPILOGUE | A reflective cinematic closing sequence about Earth's most dangerous places
+1057 | !A montage-style wide landscape of a red lake, a glowing volcano and an ice field converging toward a single horizon | AH | GH | reflective, unifying | the camera drifts across the landscapes
+1058 | !A glowing Earth from orbit with lights on the night side | SP | NT | reflective, unifying | the planet slowly turns
+1059 | !A lava lake glowing in a volcanic crater at night | TD | GL | reflective, powerful | molten rock churns
+1060 | !A still blue crater lake with a faint haze rising from its surface | AO | DU | reflective, eerie | haze drifts over the water
+1061 | !A storm-lashed polar ocean with ice floes and wind-whipped waves | AO | ST | reflective, unforgiving | waves crash between ice floes
+1062 | !An abandoned mining town under a hazy sky | AO | OV | reflective, sobering | dust drifts through empty streets
+1063 | !A steaming jungle river and a red toxic lake side by side in split landscape | AH | DW | reflective, eerie | steam rises over both waters
+1064 | !A forbidden tropical island seen from far offshore | LL | GH | reflective, mysterious | waves break on the reef
+1065 | !A frozen village and an empty town side by side in contrasting light | AO | DU | reflective, sobering | snow and dust drift
+1066 | !A lone figure standing at the edge of a vast canyon at dusk | LL | DU | reflective, humbling | wind moves the figure's coat
+1067 | !A thermometer in desert heat with shimmering haze | CU | SB | reflective, tense | the needle rises
+1068 | !Deep blue water fading into darkness below a diver | UW | DK | reflective, tense | the diver hovers above the abyss
+1069 | !A faint mist drifting over a silent valley | GW | FG | reflective, ominous | the mist creeps slowly
+1070 | !A peaceful green countryside with villages and fields | AH | GH | reflective, safe | the drone glides over gentle hills
+1071 | !A sunny coastal town by a calm bay | AO | GH | reflective, comfortable | boats bob in the harbor
+1072 | !A hiker stepping from a green meadow onto a rugged volcanic plain | GW | ST | reflective, ominous | clouds race overhead
+1073 | !A lone warning sign at the edge of a volcanic crater | CU | OV | reflective, cautionary | wind rattles the sign
+1074 | !Flamingos lifting off over a red lake at sunrise | AO | GH | hopeful, uplifting | the flock rises
+1075 | !Flamingo chicks huddled on a salt island in red water | LL | GH | hopeful, tender | chicks shuffle together
+1076 | !Children playing on a street built over black hardened lava | GW | GH | hopeful, resilient | children run past houses
+1077 | !Trees growing over an abandoned street | GW | GH | hopeful, reclaiming | leaves fall onto the road
+1078 | !Water flowing back into a dry seabed | AO | GH | hopeful, restorative | waves spread across the sand
+1079 | !A vast desert under scorching sun | AH | SB | sober, humbling | heat haze rises
+1080 | !An ancient volcano smoking above a timeless landscape | LL | DU | humbling, eternal | ash drifts upward
+1081 | !A lone explorer standing at a cliff edge at sunset | LL | GH | determined, contemplative | wind moves through the grass
+1082 | !A small figure at the rim of a glowing volcanic crater | LL | GL | bold, awe | the figure stands still
+1083 | !A climber silhouetted on a knife-edge ridge above clouds | LL | GH | bold, awe | the climber steps forward
+1084 | !A researcher leaning over a steaming vent with a sensor | CU | OV | curious, determined | the researcher reads the sensor
+1085 | !A scientist examining a sample under a field microscope | EL | GH | curious, enlightened | the scientist adjusts the focus
+1086 | !A village of warm lit houses at the foot of a smoking volcano at dusk | AO | DU | warm, resilient | lights glow in the windows
+
+@ END TEASE | A closing teaser for Earth Uncharted's next video about the frozen world
+1087 | !A lava field cooling into black rock as snow begins to fall on it | GW | DU | transitional, intriguing | snowflakes land on the dark rock
+1088 | !A vast polar landscape of glaciers and ice cliffs under a pale sun | AH | SN | intriguing, epic | the drone glides over the ice
+1089 | !A frozen sea, a glowing blue ice cave and a snow-buried town in a single sweeping landscape | AH | SN | wondrous, inviting | the camera sweeps across the frozen scene
+1090 | !A glowing blue ice cave entrance at the foot of a glacier | PI | SN | inviting, epic | the camera pushes toward the cave
